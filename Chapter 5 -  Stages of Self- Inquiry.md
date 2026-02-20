@@ -1,5 +1,3 @@
-# Chapter 5: The Method of Self-Inquiry
-
 ## Introduction
 
 Chapter 4 cleared the ground, dismantling the cultural frameworks that would otherwise filter and distort genuine investigation. Materialism, consumerism, progress ideology, and individualism were examined not as abstract philosophical positions but as lived structures operating invisibly in consciousness. Through sustained psycho-philosophical inquiry, those frameworks loosened their grip just enough that the fundamental question could finally be held without automatic answers rushing in.
@@ -179,60 +177,6 @@ The deeper point is this: Advaita's reliance on scripture is not a crutch; it is
 This is not blind faith. It is the discipline of seeing. When the Upanisads say neti-neti, they are not demanding belief in a doctrine—they are directing an investigation. When Gaudapada deconstructs all causation, he is not proposing a metaphysical theory—he is showing what sustained reasoning reveals. Scripture provides the map; reason confirms the terrain matches; direct recognition completes the journey.
 
 We have covered significant ground—from the practical method of self-inquiry to its historical roots in classical texts to the epistemological relationship between scripture and reason. But all of this serves one purpose: supporting your direct investigation of what you are. With this foundation established, we can now turn to how this investigation actually proceeds through distinct stages.
-
-## 4. The Three Aspects of Acquiring Self-Knowledge
-
-Traditional Vedanta speaks of three aspects in the process of self-knowledge: shravana (hearing or reading the teaching), manana (reflection on the teaching), and nididhyasana (sustained contemplation or direct inquiry). Understanding how these relate to self-inquiry clarifies why conceptual understanding matters even though it is not the goal.
-
-### 4.1. Shravana: Encountering the Teaching
-
-Shravana is encountering the teaching—reading texts like this, listening to teachers, absorbing Advaita's core propositions: you are not the body-mind but awareness itself; the separate self cannot be found; what you are is infinite, unchanging, already complete. This stage provides the conceptual framework. You are learning what to look for, what mistakes to avoid, what direction to turn attention.
-
-This is not mere information-gathering. Shravana is already transformative when approached correctly. When you read that you are not the body, this is not asking you to believe a metaphysical claim—it is directing attention toward examining whether identification with the body can be verified. When you hear that awareness is unchanging, this is not theological doctrine—it is hypothesis you can test by observing whether awareness itself ever changes or only its contents change.
-
-The quality of shravana matters. Passive reading accumulates concepts without transformation. Active shravana engages with the teaching as direction for investigation. Each statement becomes a pointer—not to be believed but to be tested. This is precisely what Chapter 2 of this book aimed to accomplish: not to convince you of non-duality as belief system, but to orient attention toward what can be directly verified.
-
-What makes shravana effective is the teacher's capacity to meet the student where they are while pointing beyond. The teaching uses provisional concepts (the Witness, Maya, reflected consciousness) not as final truth but as scaffolding that will later be dismantled. Understanding that the teaching operates through adhyaropa-apavada—which Chapter 3 detailed—prevents mistaking preliminary frameworks for ultimate reality.
-
-### 4.2. Manana: Reflection and Removal of Doubt
-
-Manana is thinking through what you have heard, examining it logically, removing doubts, answering objections, and arriving at complete intellectual conviction in the teaching. When materialism says consciousness is brain-generated, manana investigates whether this claim holds up. When experience seems to prove you are a separate individual, manana examines whether that is what is actually observed or an interpretation of what is observed.
-
-The goal is not tentative agreement but unshakeable logical certainty—a conviction so thorough that the teaching becomes self-evident to the intellect, leaving no conceptual room for doubt. This stage is not mere intellectualization—it is clearing conceptual obstacles that would otherwise prevent direct investigation from proceeding clearly.
-
-This is not superficial rationalization. Chapter 4's psycho-philosophical inquiry—questioning materialist, consumerist, progress-oriented, and individualist frameworks—was extensive manana. It cleared conceptual obstacles that would otherwise prevent direct investigation from proceeding clearly. Without that reflection, self-inquiry would be filtered through unexamined beliefs, undermining the investigation before it begins. Manana ensures the intellect stands firmly convinced before moving to direct realization.
-
-Consider what happens without adequate manana. You begin self-inquiry still believing consciousness is brain-generated. Every time you try to turn attention toward awareness itself, the thought arises: This is just neural activity. The investigation cannot proceed clearly because the framework contradicts the method. Or you begin investigation still embedded in progress ideology, constantly measuring whether you are advancing toward realization. This undermines the recognition that what you are seeking is already present, not a future attainment.
-
-Manana addresses these contradictions before they sabotage practice. It is not accumulating more concepts but removing the concepts that obstruct. Like clearing debris from a path—you are not building the path, just removing what blocks it.
-
-The criterion for adequate manana is simple: no fundamental doubts remain about the teaching's basic propositions. You might not yet recognize yourself as awareness, but you have no intellectual objection to investigating whether you are. You might not yet see through the separate self, but you have logical clarity that the assumption of separate selfhood should be examined rather than accepted automatically. The conceptual ground is clear; direct investigation can proceed.
-
-### 4.3. Nididhyasana: Direct Investigation Itself
-
-Nididhyasana is the direct investigation itself—systematically isolating the observer from all that is observed, identifying as that observer, and consciously disidentifying with all objects. This is self-inquiry proper.
-
-Through sustained discrimination (viveka), you separate the seer (the subject) from everything seen (objects, contents, phenomena). The body is observed—you disidentify with it, recognizing you are what observes it. Thoughts are observed—you disidentify with them, recognizing you are what knows them. Emotions are observed—you disidentify with them, recognizing you are what witnesses them. The personality, the story, the sense of being this particular person—all observed, all disidentified with.
-
-This is not a mental exercise performed occasionally. Nididhyasana is sustained contemplation—returning again and again to the discrimination, not as technique producing future result but as direct seeing that either happens now or not at all. Each time attention gets absorbed in thoughts, you return to noticing: I am aware of these thoughts. Each time identification with the body reasserts itself, you observe: I know this body is present. Each time the story of me captures attention, you recognize: This narrative is appearing in awareness.
-
-The investigation becomes progressively subtle. Initially, discrimination between awareness and gross objects (body, external world) is relatively clear—you can observe the body, therefore you cannot be only the body. Then discrimination extends to subtle objects—thoughts, emotions, mental states. You observe thoughts arising and passing; you cannot be thoughts. You observe emotions appearing and dissolving; you cannot be emotions.
-
-Finally, discrimination reaches the most subtle level: the sense of being the observer itself. Even the position I am the Witness watching everything appears as content in awareness. This final seeing-through—which we will examine in detail in Stage 4 of this chapter—completes the investigation. No position remains, no stance is maintained. Only awareness recognizing itself, without division into subject and object.
-
-### 4.4. The Interpenetration of the Three Aspects
-
-These three are not rigidly sequential stages you complete one by one. They interpenetrate throughout the process. You hear the teaching, reflect on it, investigate directly, encounter confusion, return to the teaching for clarification, reflect more deeply, investigate again. The spiral deepens with each cycle.
-
-Early in practice, shravana dominates—you are primarily learning what self-inquiry is, what to look for, how the method works. Manana increases as questions arise: Is this really valid? Does this make sense logically? What about objections X, Y, Z? Nididhyasana begins tentatively—brief moments of actually turning attention toward awareness rather than thinking about it.
-
-As practice matures, the balance shifts. Shravana becomes refinement—returning to teachings to clarify subtle points rather than learning basics. Manana becomes more precise—not addressing fundamental doubts but resolving nuances. Nididhyasana occupies more time and depth—sustained periods of direct investigation, not just conceptual understanding.
-
-Eventually, in mature practice, the three become nearly inseparable. Reading a text (shravana) immediately sparks recognition (nididhyasana). A question arises (manana), and direct looking reveals the answer (nididhyasana). The investigation itself (nididhyasana) generates insights that refine understanding (manana), which clarifies what to investigate next (informing further shravana).
-
-But this interpenetration should not obscure the necessity of each aspect. Without shravana, you lack direction—investigation becomes aimless, more likely to reinforce confusion than dissolve it. Without manana, conceptual contradictions sabotage practice—doubt undermines investigation before it gains traction. Without nididhyasana, understanding remains theoretical—you know about non-duality without recognizing what you are.
-
-Understanding this structure prevents common mistakes—mistaking shravana (intellectual understanding) for nididhyasana (direct recognition), or dismissing manana (reflection) as mere intellectualization when it is actually clearing the ground for genuine inquiry. All three matter. All three support the investigation. And all three serve the single purpose: direct recognition of what you are.
 
 ## 5. The Four Stages of Self-Inquiry in Practice
 
