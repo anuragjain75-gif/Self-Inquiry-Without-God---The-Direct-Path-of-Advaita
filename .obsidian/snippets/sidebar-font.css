@@ -1,0 +1,13 @@
+/* Targets file and folder names specifically */
+.nav-file-title, 
+.nav-folder-title,
+.nav-file-title-content,
+.nav-folder-title-content {
+    font-size: 18px !important; 
+    line-height: 1.5 !important;
+}
+
+/* Optional: Increases the size of the little collapse arrows */
+.nav-folder-collapse-indicator {
+    size: 18px !important;
+}

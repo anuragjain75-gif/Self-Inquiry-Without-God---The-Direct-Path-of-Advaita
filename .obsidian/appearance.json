@@ -3,7 +3,9 @@
   "cssTheme": "Typewriter",
   "baseFontSize": 21,
   "enabledCssSnippets": [
-    "full-width"
+    "full-width",
+    "folder-view",
+    "sidebar-font"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "Liberation Mono"

@@ -1,3 +1,6 @@
+---
+cssclasses: full-width-active
+---
 # 1. The Obvious Mystery
 
 You sense yourself as existing, aware, experiencing—but what exactly is this "I"?
