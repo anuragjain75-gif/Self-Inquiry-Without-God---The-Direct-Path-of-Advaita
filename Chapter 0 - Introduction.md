@@ -1,7 +1,7 @@
 ---
 cssclasses: full-width-active
 ---
-
+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
 # 1. The Human Predicament
 
 When I was a teenager, my parents told me I must study hard for my 10th grade board exams—that this would secure a good future. I performed well, and the promise shifted: now getting into an engineering college would secure that future. Obediently, I entered a reasonably reputable engineering college. Then came the next condition: an engineering degree alone was not enough—I must also pursue an MBA to land a truly high-profile job.
