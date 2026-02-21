@@ -5,7 +5,8 @@
   "enabledCssSnippets": [
     "full-width",
     "folder-view",
-    "sidebar-font"
+    "sidebar-font",
+    "outline-font"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "Liberation Mono"

@@ -1,0 +1,11 @@
+/* Adjusts the font size of the Outline/Heading list */
+.outline .tree-item-inner,
+.view-content .outline-view-container .tree-item-inner {
+    font-size: 16px !important; /* Change this to your preferred size */
+    line-height: 1.4 !important; /* Adds a bit of breathing room between headings */
+}
+
+/* Optional: Makes the heading level indicators (H1, H2, etc.) slightly larger too */
+.outline .tree-item-flair {
+    font-size: 12px !important;
+}

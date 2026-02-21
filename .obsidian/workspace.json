@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 0 - Introduction.md",
+                "file": "Chapter 1 - What Am I - The Most Intimate Question.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 0 - Introduction"
+              "title": "Outline of Chapter 1 - What Am I - The Most Intimate Question"
             }
           }
         ],
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +185,7 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "4d8f4ede328da9e8",
+  "active": "df2cee5cfe185374",
   "lastOpenFiles": [
     "Chapter 0 - Introduction.md",
     "_TOC_.md",
