@@ -1,0 +1,4 @@
+/* Toggle this ON to hide all comments for a clean manuscript view */
+.callout[data-callout="comment"] {
+    display: none !important;
+}

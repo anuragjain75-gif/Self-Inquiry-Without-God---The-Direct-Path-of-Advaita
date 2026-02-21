@@ -6,7 +6,8 @@
     "full-width",
     "folder-view",
     "sidebar-font",
-    "outline-font"
+    "outline-font",
+    "post-it"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "Liberation Mono"

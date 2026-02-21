@@ -9,7 +9,8 @@
       "id": "app:open-settings",
       "icon": "lucide-settings",
       "name": "Open settings",
-      "mode": "any"
+      "mode": "any",
+      "color": "#f2d40d"
     }
   ],
   "rightRibbon": [],

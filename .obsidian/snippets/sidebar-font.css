@@ -1,10 +1,13 @@
-/* Targeted Outline View adjustment */
-.workspace-leaf-content[data-type="outline"] .tree-item-inner {
-    font-size: 18px !important;
+/* Targets file and folder names specifically */
+.nav-file-title, 
+.nav-folder-title,
+.nav-file-title-content,
+.nav-folder-title-content {
+    font-size: 18px !important; 
     line-height: 1.5 !important;
 }
 
-/* Ensure the heading text itself is covered */
-.outline .tree-item-self .tree-item-inner {
-    font-size: 18px !important;
+/* Optional: Increases the size of the little collapse arrows */
+.nav-folder-collapse-indicator {
+    size: 18px !important;
 }

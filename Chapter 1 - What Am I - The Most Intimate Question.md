@@ -99,7 +99,7 @@ Even the desire for spiritual liberation carries this structure—and this is th
 
 This is not a peripheral observation. It is the central obstacle on this path. The mind that picks up this book hoping to achieve enlightenment, that reads each chapter measuring its progress, that collects insights like acquisitions—this mind is already misunderstanding what inquiry is. This will be addressed in detail in subsequent chapters. For now, simply notice: is investigation genuinely open? Or is it already another project of the separate self, seeking the ultimate prize?
 
-The Vivekachudamani captures the full structure of this suffering with devastating clarity in verse 145: "Of the tree of Samsara ignorance is the seed, the identification with the body is its sprout, attachment its tender leaves, work its water, the body its trunk, the vital forces its branches, the organs its twigs, the sense-objects its flowers, various miseries due to diverse works are its fruits, and the individual soul is the bird on it."
+The Vivekachudamani captures the full structure of this suffering with devastating clarity in verse 145: *"Of the tree of Samsara ignorance is the seed, the identification with the body is its sprout, attachment its tender leaves, work its water, the body its trunk, the vital forces its branches, the organs its twigs, the sense-objects its flowers, various miseries due to diverse works are its fruits, and the individual soul is the bird on it."*
 
 The entire edifice of suffering grows from one seed: ignorance of what you are. From that ignorance comes identification with the body. From identification come attachment, desire, action driven by seeking and avoiding. And from all of this come the endless miseries. The text continues in verse 146: "This bondage of the non-Self springs from ignorance, is self-caused, and is described as without beginning and end."
 
@@ -157,7 +157,7 @@ One crucial distinction must be drawn before you begin: this investigation is no
 
 What the investigation requires is not belief. You can believe you are infinite Awareness, universal consciousness, the ground of all being—but if you have not looked directly, the belief is just another concept the mind holds while identification with the separate self continues unchanged. Belief is the wrong instrument entirely. The instrument is looking.
 
-Notice right now: something is aware of these words. Something is aware of the body sitting here, of sounds in the room, of thoughts arising about what you are reading. This something—this knowing, this simple fact of awareness being present—is undeniable. You cannot step outside it to observe it as an object. Every attempt to make Awareness an object of observation reveals only more Awareness, doing the observing.
+Notice right now: something is aware of these words. Something is aware of the body sitting here, of sounds in the room, of thoughts arising about what you are reading. This something—this knowing, this simple fact of Awareness being present—is undeniable. You cannot step outside it to observe it as an object. Every attempt to make Awareness an object of observation reveals only more Awareness, doing the observing.
 
 What is that?
 

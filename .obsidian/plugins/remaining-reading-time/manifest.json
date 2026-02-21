@@ -1,0 +1,10 @@
+{
+	"id": "remaining-reading-time",
+	"name": "Remaining reading time",
+	"description": "Shows the remaining reading time for the current note depending on the cursor position.",
+	"version": "1.8",
+	"minAppVersion": "0.12.17",
+	"isDesktopOnly": false,
+	"author": "ununnamed",
+	"authorUrl": "https://github.com/ununnamed"
+}
