@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Typewriter",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "full-width"
+  ],
+  "baseFontSizeAction": true
+}

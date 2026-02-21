@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "9574f3097cceccf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ab29756cec3670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d8f4ede328da9e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b34835f3d869c6ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "704aca0e2e152c00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21db1836631896c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72d35212cce74389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c4ecf3edd968003",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d66c704814638c26",
+    "type": "split",
+    "children": [
+      {
+        "id": "82ab798446558b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7005581f73883b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4c865dfa2150c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f56ae5aed428c8c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d459fc30ba323fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df2cee5cfe185374",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "cmdr:Open settings": false
+    }
+  },
+  "active": "4d8f4ede328da9e8",
+  "lastOpenFiles": [
+    "_TOC_.md",
+    "Chapter 5 -  Stages of Self- Inquiry.md",
+    "Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
+    "Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+    "Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+    "Chapter 1 - What Am I - The Most Intimate Question.md",
+    "Chapter 0 - Preface.md",
+    "Chapter 0 - Introduction.md",
+    "Book - Self Inquiry Without God/_TOC_.md",
+    "Book - Self Inquiry Without God/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+    "Book - Self Inquiry Without God/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+    "Book - Self Inquiry Without God/Chapter 0 - Preface.md",
+    "Book - Self Inquiry Without God/Chapter 0 - Introduction.md",
+    "Book - Self Inquiry Without God/Chapter 5 -  Stages of Self- Inquiry.md",
+    "Book - Self Inquiry Without God/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
+    "Book - Self Inquiry Without God/Chapter 1 - What Am I - The Most Intimate Question.md",
+    "Book - Self Inquiry Without God"
+  ]
+}

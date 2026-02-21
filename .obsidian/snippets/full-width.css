@@ -1,0 +1,12 @@
+/* This targets the internal Obsidian variable for line width */
+.full-width-active {
+    --file-line-width: 100% !important;
+    --line-width: 100% !important;
+    --max-width: 100% !important;
+}
+
+/* Specific fix for the Minimal Theme if you are using it */
+.minimal-theme .full-width-active {
+    --line-width: 100% !important;
+    --max-width: 100% !important;
+}
