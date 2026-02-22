@@ -1,0 +1,333 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "word",
+    "countConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "countType2": "none",
+    "countConfig2": {
+      "$sessionCountType": "word"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "labelOpacity": 0.75,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "Book/Chapter 7 - What Self-Inquiry Is NOT - Clarifying Common Confusions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5299,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 17.663333333333334,
+      "characterCount": 37674,
+      "nonWhitespaceCharacterCount": 32217,
+      "newlineCount": 239,
+      "readingTimeInMinutes": 19.99622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771777317963,
+      "modifiedDate": 1771780052156,
+      "sizeInBytes": 38170,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 17.663333333333334,
+        "wordCount": 5299,
+        "characterCount": 37674,
+        "nonWhitespaceCharacterCount": 32217,
+        "newlineCount": 239
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 6 - Stages of Self-Inquiry.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5799,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 19.33,
+      "characterCount": 37827,
+      "nonWhitespaceCharacterCount": 31784,
+      "newlineCount": 200,
+      "readingTimeInMinutes": 21.883018867924527,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771776759605,
+      "modifiedDate": 1771779156143,
+      "sizeInBytes": 38114,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 19.33,
+        "wordCount": 5799,
+        "characterCount": 37827,
+        "nonWhitespaceCharacterCount": 31784,
+        "newlineCount": 200
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4742,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 15.806666666666667,
+      "characterCount": 32806,
+      "nonWhitespaceCharacterCount": 27952,
+      "newlineCount": 191,
+      "readingTimeInMinutes": 17.89433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771774039478,
+      "modifiedDate": 1771774179320,
+      "sizeInBytes": 33067,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 15.806666666666667,
+        "wordCount": 4742,
+        "characterCount": 32806,
+        "nonWhitespaceCharacterCount": 27952,
+        "newlineCount": 191
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1771651815492,
+      "modifiedDate": 1770012368015,
+      "sizeInBytes": 91861,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1771651815746,
+      "modifiedDate": 1769772975871,
+      "sizeInBytes": 79825,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1771651815542,
+      "modifiedDate": 1771568999200,
+      "sizeInBytes": 79467,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Book/Chapter 1 - What Am I - The Most Intimate Question.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4461,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.87,
+      "characterCount": 28830,
+      "nonWhitespaceCharacterCount": 24270,
+      "newlineCount": 186,
+      "readingTimeInMinutes": 16.833962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771651815478,
+      "modifiedDate": 1771657130062,
+      "sizeInBytes": 29081,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 14.87,
+        "wordCount": 4461,
+        "characterCount": 28830,
+        "nonWhitespaceCharacterCount": 24270,
+        "newlineCount": 186
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 0 - Preface.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2694,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.98,
+      "characterCount": 17878,
+      "nonWhitespaceCharacterCount": 15138,
+      "newlineCount": 72,
+      "readingTimeInMinutes": 10.166037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771651815530,
+      "modifiedDate": 1771397974352,
+      "sizeInBytes": 18135,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 8.98,
+        "wordCount": 2694,
+        "characterCount": 17878,
+        "nonWhitespaceCharacterCount": 15138,
+        "newlineCount": 72
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 0 - Introduction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5721,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 19.07,
+      "characterCount": 39222,
+      "nonWhitespaceCharacterCount": 33407,
+      "newlineCount": 161,
+      "readingTimeInMinutes": 21.588679245283018,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771651815501,
+      "modifiedDate": 1771653221400,
+      "sizeInBytes": 39482,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 19.07,
+        "wordCount": 5721,
+        "characterCount": 39222,
+        "nonWhitespaceCharacterCount": 33407,
+        "newlineCount": 161
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    }
+  }
+}

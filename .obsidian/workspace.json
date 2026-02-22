@@ -11,14 +11,10 @@
             "id": "4d8f4ede328da9e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_TOC_.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_TOC_"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "d66c704814638c26",
@@ -157,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_TOC_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _TOC_"
+              "title": "Outline"
             }
           }
         ],
@@ -188,26 +182,36 @@
   },
   "active": "4d8f4ede328da9e8",
   "lastOpenFiles": [
+    "Chapter 0 - Introduction.md",
+    "Book/Chapter 7 - What Self-Inquiry Is NOT - Clarifying Common Confusions.md",
+    "Book/Chapter 6 - Stages of Self-Inquiry.md",
+    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md",
+    "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
+    "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+    "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+    "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
+    "Book/Chapter 0 - Preface.md",
+    "Book/Chapter 0 - Introduction.md",
+    "Book",
+    "Untitled Folder",
+    "Chapter 7 - What Self-Inquiry Is NOT - Clarifying Common Confusions.md",
+    "Current Work/Book - Self Inquiry Without God/Chapter 0 - Preface.md",
+    "Current Work/_TOC_.md",
+    "Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
     "Chapter 6 - Stages of Self-Inquiry.md",
     "Chapter 5 - The Nature and Authority of Self-Inquiry.md",
-    "Chapter 6 -  Stages of Self- Inquiry.md",
-    "Chapter5_Redraft.docx.md",
-    "Chapter 5 -  The Advaitic Foundation of Self-Inquiry.md",
     "Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Chapter 2 - Advaita's Teaching - What You Actually Are.md",
     "Chapter 1 - What Am I - The Most Intimate Question.md",
-    "Chapter 0 - Introduction.md",
-    "_TOC_.md",
-    "Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
     "Chapter 0 - Preface.md",
+    "Current Work/Book - Self Inquiry Without God",
+    "Current Work",
+    "Chapter 6 -  Stages of Self- Inquiry.md",
+    "Chapter5_Redraft.docx.md",
+    "Chapter 5 -  The Advaitic Foundation of Self-Inquiry.md",
     "Book - Self Inquiry Without God/_TOC_.md",
     "Book - Self Inquiry Without God/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book - Self Inquiry Without God/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
-    "Book - Self Inquiry Without God/Chapter 0 - Preface.md",
-    "Book - Self Inquiry Without God/Chapter 0 - Introduction.md",
-    "Book - Self Inquiry Without God/Chapter 5 -  Stages of Self- Inquiry.md",
-    "Book - Self Inquiry Without God/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
-    "Book - Self Inquiry Without God/Chapter 1 - What Am I - The Most Intimate Question.md",
     "Book - Self Inquiry Without God"
   ]
 }
