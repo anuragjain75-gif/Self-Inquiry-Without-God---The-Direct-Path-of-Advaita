@@ -1,0 +1,16 @@
+/* Center images in Live Preview and Reading Mode */
+.markdown-rendered img, 
+.markdown-source-view.mod-cm6 .cm-content img,
+.image-embed {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 100%;
+}
+
+/* Ensure the container doesn't force left-alignment */
+.image-embed {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

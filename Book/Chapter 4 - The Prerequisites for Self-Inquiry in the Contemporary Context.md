@@ -1,8 +1,6 @@
-
+---
 cssclasses: full-width-active
-
-name: Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context
-
+---
 ## Introduction
 
 The contemporary seeker faces a peculiar challenge. You've understood the methodology—superimposition and negation, the graduated path, the provisional nature of all teachings. You recognize intellectually that Advaita offers not belief but investigation. Yet understanding the method and being able to engage it are different matters entirely.
@@ -75,8 +73,6 @@ Here's where the translation problem becomes acute. Traditional methods for deve
 **Individualism** makes non-separation seem threatening by defining your very identity through autonomous selfhood. The entire structure of rights, responsibilities, achievement, and meaning assumes you're a separate agent. To question this feels like questioning your existence itself. Yet this is precisely what must be investigated—the assumption of being an autonomous, separate, independently existing entity.
 
 These aren't conscious beliefs you can simply decide to abandon. They're the water you swim in, the unquestioned ground of normal perception. This is why qualification-development for contemporary seekers must begin differently than tradition prescribed.
-
-
 
 ## 2. The Materialist Framework and Viveka
 
@@ -155,8 +151,6 @@ Does consciousness depend on body-brain for existence (making it temporary), or 
 Under materialist assumptions, this question couldn't be asked—you already knew the answer. But now genuine investigation opens: Does consciousness have observable beginning or ending? Or is it always already present? Does consciousness change, or only its contents? Is consciousness located in the body, or does the body appear as object within locationless awareness?
 
 This is viveka in contemporary context: distinguishing what's directly known from what's theoretically assumed, what's immediately present from what's inferred. Materialism prevented this investigation by answering in advance. Seeing through materialism restores genuine questioning.
-
-
 
 ## 3. The Consumerist Framework and Vairāgya
 
@@ -267,8 +261,7 @@ Every element operates within progress ideology:
 - "Three to five years of dedicated practice" (timeline from effort to attainment)
 
 None of this is investigation into what you are. It's all project-thinking—the separate self pursuing future states through systematic effort. The separate self isn't being questioned; it's being improved. Liberation isn't recognized as already present; it's projected into future arrival through development.
-> [!comment]
-> **1st Feb:** This has to be addressed in the Stages of Self Inquiry Chapter
+
 ### 4.3. The Distortion of Mumukṣutva
 
 Genuine mumukṣutva arises from existential crisis: recognition that death claims everything temporary, desperate need to know what death cannot touch—Nachiketa's predicament. This urgency is present-tense: "What am I right now, prior to death? Not what will I become through practice, but what is already here that practice itself presupposes?"
@@ -298,8 +291,6 @@ Think of it like recognizing that the rope you've been terrified of is not a sna
 But examine directly: can you be partially aware right now? Either consciousness is present or not. Can you partially exist? Either you are or you aren't. The "I am" is self-evident, complete, not subject to degrees. What you fundamentally are—Awareness itself—is either recognized or not recognized. The recognition doesn't become fuller; the psychological capacity to remain as what's been recognized develops.
 
 Progress ideology wants to treat even recognition as developmental: "First I had an initial awakening, then deeper realizations, now I'm stabilizing in non-dual awareness." But this describes integration process, not recognition itself. The recognition "I am Awareness, not the separate self" is complete when it occurs—what develops is living from this recognition rather than habitually contracting back into identification.
-
-
 
 ## 5. Individualism and the Autonomous Self
 
@@ -425,8 +416,6 @@ Try this modest inquiry to introduce reasonable doubt:
 
 This investigation doesn't prove individualism false. It introduces genuine doubt about what seemed absolutely certain. And that doubt creates opening—willingness to investigate further without already knowing the answer.
 
-
-
 ## 6. Practicing Psycho-Philosophical Inquiry
 
 Understanding the frameworks intellectually doesn't dissolve their grip. This section provides the practical method for working with them through systematic inquiry.
@@ -512,8 +501,6 @@ This practice doesn't cultivate qualifications through progressive development, 
 
 The qualifications don't appear suddenly, fully formed. They emerge gradually as obstacles dissolve, gaining strength through repeated recognition, investigation, discrimination, and release.
 
-
-
 ## 7. What This Preparation Reveals
 
 What's revealed when frameworks' grip loosens, when their invisibility becomes visibility, when their certainty becomes doubt?
@@ -545,8 +532,6 @@ Readiness isn't achievement level reached through progressive cultivation. It's 
 Readiness means: frameworks are recognized when they arise (not eliminated, but visible); you can discriminate between framework and immediate experience (not perfectly, but regularly); the grip has loosened enough that genuine questioning is possible (not complete freedom, but sufficient openness); mumukṣutva has emerged as authentic urgency; ṣaṭ-sampat functions well enough for sustained investigation.
 
 The qualifications don't need to be perfect—they need to be functional. Sufficient that inquiry can proceed despite frameworks continuing to arise from habit, despite confusion still appearing, despite conditioning still operating.
-
-
 
 ## 8. Closing: The Ground Cleared
 
@@ -587,8 +572,6 @@ The question stands now—naked, urgent, genuine: What am I?
 Not the body (that's observed). Not thoughts (those come and go). Not emotions (those change). Not the person (that's appearance in awareness). Then what?
 
 The following chapters will guide the investigation. But the question itself—held genuinely, from authentic not-knowing, without framework-answers—this is where genuine inquiry begins.
-
-
 
 ## [PAUSE AND INVESTIGATE]
 

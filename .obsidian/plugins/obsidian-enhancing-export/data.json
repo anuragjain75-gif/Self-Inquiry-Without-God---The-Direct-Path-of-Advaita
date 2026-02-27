@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF"
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    },
+    {
+      "name": "PowerPoint (.pptx)"
+    }
+  ],
+  "pandocPath": {},
+  "defaultExportDirectoryMode": "Custom",
+  "openExportedFile": false,
+  "env": {},
+  "showExportProgressBar": true,
+  "customDefaultExportDirectory": {
+    "linux": "/home/anurag"
+  },
+  "openExportedFileLocation": true,
+  "lastEditName": "Epub",
+  "lastExportDirectory": {
+    "linux": "/home/anurag"
+  },
+  "lastExportType": "Epub"
+}

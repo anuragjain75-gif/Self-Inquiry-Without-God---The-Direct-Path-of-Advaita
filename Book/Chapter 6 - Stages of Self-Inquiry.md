@@ -1,11 +1,9 @@
 ---
 cssclasses: full-width-active
 ---
-# **Chapter 6: The Stages of Self-Inquiry**
+## 1. The Question That Cannot Be Answered Quickly
 
-## **1\. The Question That Cannot Be Answered Quickly**
-
-I want to begin with an admission that most books on Advaita quietly suppress: the journey from intellectual understanding to genuine recognition is not seamless. It does not unfold in a single meditative afternoon, nor does it arrive with the first satisfying reading of a Upanishadic mahavakya. Between the moment you first hear that you are not the body-mind and the moment that truth stops being a belief and becomes an undeniable recognition, there is territory — real, traversable, sometimes bewildering territory — and it has a structure.
+The journey from intellectual understanding to genuine recognition is not seamless. It does not unfold in a single meditative afternoon, nor does it arrive with the first satisfying reading of a Upanishadic mahavakya. Between the moment you first hear that you are not the body-mind and the moment that truth stops being a belief and becomes an undeniable recognition, there is territory — real, traversable, sometimes bewildering territory — and it has a structure.
 
 This chapter is a map of that territory.
 

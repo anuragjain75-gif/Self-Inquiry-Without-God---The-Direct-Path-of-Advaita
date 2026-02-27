@@ -625,7 +625,6 @@ The Māṇḍūkya Kārikā (II.32) states: "What does not exist in the beginnin
 
 Ānanda is Brahman's fullness. Not that Brahman experiences bliss, but that Brahman lacks nothing, is complete in itself, self-sufficient, requiring nothing outside itself because there is nothing outside itself.
 
-
 ### 5.4. The Inseparability of Sat-Cit-Ānanda
 
 These three are not separate attributes somehow combined in Brahman. They're inseparable because they're different ways of recognizing the same reality.

@@ -163,7 +163,7 @@ What is that?
 
 Not what does Advaita say it is. Not what you hope or fear it might be. What is it, directly, right now, prior to all descriptions?
 
-The chapters ahead will offer conceptual guidance—what Advaita teaches about reality (Chapter 2), how superimposition creates the illusion of separate selfhood (Chapter 3), what qualifications genuine inquiry requires (Chapter 4), and what the inquiry is not (Chapter 5 and 6). These concepts are not conclusions to believe but hypotheses to test. They are fingers pointing—not the moon. They serve only one purpose: to direct your attention toward direct investigation. Once the building stands, the scaffolding is removed.
+The chapters ahead will offer conceptual guidance—what Advaita teaches about reality (Chapter 2), how superimposition creates the illusion of separate selfhood (Chapter 3), what qualifications genuine inquiry requires (Chapter 4), and what the inquiry is not (Chapters 5 to 7). These concepts are not conclusions to believe but hypotheses to test. They are fingers pointing—not the moon. They serve only one purpose: to direct your attention toward direct investigation. Once the building stands, the scaffolding is removed.
 
 But the investigation does not wait for the end of this book. It can begin now. It can begin with this breath, this sentence, this noticing.
 

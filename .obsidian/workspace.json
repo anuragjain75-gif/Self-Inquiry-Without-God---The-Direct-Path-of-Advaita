@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d8f4ede328da9e8",
+            "id": "0bad2b05baae0a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
+                "file": "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions"
+              "title": "Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka"
+            }
+          },
+          {
+            "id": "05e584fe484eadf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratch Pad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scratch Pad"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(nachiketa)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
+                "file": "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions"
+              "title": "Outline of Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka"
             }
           }
         ],
@@ -171,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,19 +199,26 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "4d8f4ede328da9e8",
+  "active": "0bad2b05baae0a23",
   "lastOpenFiles": [
-    "Book/Chapter 6 - Stages of Self-Inquiry.md",
-    "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
-    "Book/Chapter 7 - What Self-Inquiry Is NOT - Clarifying Common Confusions.md",
-    "Chapter 0 - Introduction.md",
-    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md",
-    "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
+    "Scratch Pad.md",
+    "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
     "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
     "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
     "Book/Chapter 0 - Preface.md",
+    "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
+    "Book/_TOC_.md",
+    "Book/The Direct Path of Advaita/Index.md",
+    "Book/The Direct Path of Advaita",
+    "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
+    "Book/Chapter 6 - Stages of Self-Inquiry.md",
+    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md",
     "Book/Chapter 0 - Introduction.md",
+    "Media",
+    "Media/Qualifications.png",
+    "Book/Chapter 7 - What Self-Inquiry Is NOT - Clarifying Common Confusions.md",
+    "Chapter 0 - Introduction.md",
     "Book",
     "Untitled Folder",
     "Chapter 7 - What Self-Inquiry Is NOT - Clarifying Common Confusions.md",
@@ -214,10 +234,6 @@
     "Current Work/Book - Self Inquiry Without God",
     "Current Work",
     "Chapter 6 -  Stages of Self- Inquiry.md",
-    "Chapter5_Redraft.docx.md",
-    "Chapter 5 -  The Advaitic Foundation of Self-Inquiry.md",
-    "Book - Self Inquiry Without God/_TOC_.md",
-    "Book - Self Inquiry Without God/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book - Self Inquiry Without God"
   ]
 }
