@@ -21,11 +21,12 @@ The second dissolves Vivartavāda itself.
 4. Vedantic Meditation and its Benefits (Verses 22–31)
 5. Summary of the Teaching - The Three Kinds of Jiva (Verses 32–46)
 
-## 4. Section 4 - Chapter 8
+The following points need to be kept in mind.
 
-1. In Verses 6-12, the main thrust is to bring the seeker from parinamavada to pratibimbhavada so that his hold on real transformation loosens. 
-2. It examines how the two seers are formed from a single, universal, impersonal seer/Witness. So basically it is talking about the imaginary appearance of individual subjects on non-dual Awareness
-3. The verses from 13 to 21 show why this is the case. For this the DDV shifts its cosmological resgister from Parinamavada to Pratibimbhavada
-4. 
+1.) One should not meditate on Consciousness as the Witness because the Witness is not yet known. One should rather abide as the Reflected Consciousness/Observer. I dont know why the DDV makes this goof up.
 
+2.) Verse 26 as per me is where akhandakara vritti strikes and one comes to know oneself as the Witness. Thereafter no effort is required. 
 
+3.) The first set of meditations have to be practiced first to reach the Witness stage because the status of objects seen depends upon where the seer stands. With eyes one sees objects as physical, with mind one sees objects as thoughts and as Witness one starts seeing them as Awareness.
+
+4.) The second set of meditations begin after the akhandakara vritti

@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8ea87425e8572246",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratch Pad.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Scratch Pad"
+            }
+          },
+          {
             "id": "977ac687b9dee6f3",
             "type": "leaf",
             "pinned": true,
@@ -31,9 +47,9 @@
               "state": {
                 "file": "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
                 "page": 8,
-                "left": 92,
-                "top": 551,
-                "zoom": 2.6889153754469604
+                "left": 91,
+                "top": 555,
+                "zoom": 2.1239570917759236
               },
               "icon": "lucide-file-text",
               "title": "Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna"
@@ -54,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "d66c704814638c26",
@@ -234,9 +249,10 @@
   },
   "active": "53cd2699aeb0c8ce",
   "lastOpenFiles": [
+    "Scratch Pad.md",
     "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
-    "Book Comments.md",
     "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
+    "Book Comments.md",
     "Research Books",
     "Excalidraw/Vivartavada.md",
     "Media/Vivartavada.png",
@@ -245,7 +261,6 @@
     "Excalidraw/Book Notes.md",
     "Media/Existence vs Form.png",
     "Book/Chapter 0 - Introduction.md",
-    "Scratch Pad.md",
     "Book/Chapter 0 - Preface.md",
     "Book/_TOC_.md",
     "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",

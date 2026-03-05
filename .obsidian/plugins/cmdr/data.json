@@ -2,7 +2,14 @@
   "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "bookmarks:bookmark-current-section",
+      "icon": "lucide-bookmark-plus",
+      "name": "Bookmarks: Bookmark block under cursor...",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [],
   "leftRibbon": [
     {
