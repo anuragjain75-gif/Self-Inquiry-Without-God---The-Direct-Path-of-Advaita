@@ -1,7 +1,6 @@
 ---
 cssclasses: full-width-active
 ---
-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
 # 1. The Human Predicament
 
 When I was a teenager, my parents told me I must study hard for my 10th grade board exams—that this would secure a good future. I performed well, and the promise shifted: now getting into an engineering college would secure that future. Obediently, I entered a reasonably reputable engineering college. Then came the next condition: an engineering degree alone was not enough—I must also pursue an MBA to land a truly high-profile job.
@@ -142,7 +141,7 @@ This book unfolds in three movements, each serving a distinct purpose in your in
 
 Part I: Establishing the Foundation (Chapters 1–3) This section establishes the conceptual grounding necessary for the reader. Chapter 1 introduces the question "What Am I?" as the most intimate and fundamental inquiry, grounding it in the reader's own existence. Chapter 2 outlines the core of Advaita's teaching regarding your actual nature. Chapter 3 explains the methodology of Superimposition and Negation, detailing why the tradition uses contradictory stages to guide the student toward an understanding that avoids common "presentation pitfalls."
 > [!comment]
-> **24th Feb:** Here, the Chapter numbers and their descriptions have to change
+> **24th Feb:** Here, the Chapter numbers and their descriptions have to change ^ref1
 
 Part II: The Mechanics of Inquiry (Chapters 4–6) This part focuses on the preparation and definition of the investigative process to ensure the seeker is properly equipped. Chapter 4 defines the qualifications required for self-inquiry, providing the necessary "intellectual framework" for genuine investigation. Chapter 5 details the specific stages of self-inquiry, providing a clear roadmap for the method. Chapter 6 serves as a vital corrective by clarifying what self-inquiry is not, which helps prevent the confusion and derailment often experienced by beginners.
 

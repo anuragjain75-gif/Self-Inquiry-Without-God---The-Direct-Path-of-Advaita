@@ -141,7 +141,7 @@ Traditional Advaita addresses the question of world-origin by introducing Ishvar
 
 By this standard, Awareness passes with complete certainty—it is the most directly evident fact in existence, the precondition of all other evidence. What cannot be verified through direct experience or reliable inference, however psychologically meaningful it may be, remains in the domain of belief rather than knowledge. This is not a restriction imposed by prejudice. It is the honest condition of what can be called known.
 
-God is neither directly evident in experience nor reliably inferred from evidence—believers and non-believers examine the same world and reach opposite conclusions. This is not an anti-religious statement; it is an epistemological one. The inquiry can stand complete without theological scaffolding, examining what is directly available: Awareness itself, and the appearing of world and self within it.
+God is neither directly evident in experience nor reliably inferred from evidence—believers and non-believers examine the same world and reach opposite conclusions. This is not an anti-religious statement; it is an epistemological one. Every experience attributed to God—however luminous, however transformative, however saturated with felt grace—is an experience. It appears in Awareness, is known by Awareness, and subsides back into Awareness. Whatever appears is the seen; whatever is seen is temporary; whatever is temporary is not the ground of truth. This is not a dismissal of religious experience. It is a precise location of it. The inquiry is not concerned with what appears within Awareness, however magnificent—it is concerned with the Awareness in which all of it, including God, appears. The inquiry can stand complete without theological scaffolding, examining what is directly available: Awareness itself, and the appearing of world and self within it.
 
 The investigation starts here—with what cannot be doubted. Awareness is present. Everything else appears within it.
 
@@ -163,7 +163,7 @@ What is that?
 
 Not what does Advaita say it is. Not what you hope or fear it might be. What is it, directly, right now, prior to all descriptions?
 
-The chapters ahead will offer conceptual guidance—what Advaita teaches about reality (Chapter 2), how superimposition creates the illusion of separate selfhood (Chapter 3), what qualifications genuine inquiry requires (Chapter 4), and what the inquiry is not (Chapters 5 to 7). These concepts are not conclusions to believe but hypotheses to test. They are fingers pointing—not the moon. They serve only one purpose: to direct your attention toward direct investigation. Once the building stands, the scaffolding is removed.
+The chapters ahead will offer conceptual guidance—what Advaita teaches about reality (Chapter 2), how superimposition creates the illusion of separate selfhood (Chapter 3), what qualifications genuine inquiry requires (Chapter 4), what inquiry is (Chapters 5 and 6)and what the inquiry is not (Chapter 7). These concepts are not conclusions to believe but hypotheses to test. They are fingers pointing—not the moon. They serve only one purpose: to direct your attention toward direct investigation. Once the building stands, the scaffolding is removed.
 
 But the investigation does not wait for the end of this book. It can begin now. It can begin with this breath, this sentence, this noticing.
 
@@ -175,13 +175,15 @@ Are you willing to look?
 
 *Right now, notice that you are reading these words. Something is aware of the visual perception, aware of the body sitting here, aware of thoughts about what you are reading.*
 
-*What is that awareness?*
+*What is that Awareness?*
 
 *Do not answer conceptually. Do not think about it. Just notice that Awareness is present—undeniably here, knowing all experience.*
 
 *Now investigate: where is this Awareness located? Can you find it as a thing—as an object with boundaries and characteristics? Can you observe Awareness the way you observe the body, thoughts, or sensations?*
 
-*When you look for Awareness as an object—something that can be found, pointed to, located—what do you actually discover?*
+*Many people, when they first investigate, report that Awareness seems to originate in the head. This is understandable. The brain processes sensory information; the eyes, ears, and primary cognitive activity are all located there; decades of thinking have created a strong felt-sense of a "centre" somewhere behind the eyes. But notice what is actually happening: you are locating the instrument through which experience is processed, not Awareness itself. The television set is in one corner of the room — but does that mean the broadcast originates in that corner? The body's processing happens in the brain; that is neuroscience. But what is aware of the brain's activity — including the thought "Awareness seems to come from my head" — cannot itself be inside the head it is observing. That thought, that felt-sense of a centre, is itself another object appearing in Awareness. 
+
+*Investigate: is Awareness actually located in the head, or is the head located in Awareness? When you look for Awareness as an object—something that can be found, pointed to, located—what do you actually discover?*
 
 *Do not rush to an answer. Do not reach for concepts. Just remain with what is actually discovered when you look.*
 

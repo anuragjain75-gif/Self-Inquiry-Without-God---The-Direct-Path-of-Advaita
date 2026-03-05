@@ -8,7 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bad2b05baae0a23",
+            "id": "977ac687b9dee6f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Comments.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Book Comments"
+            }
+          },
+          {
+            "id": "fb6ae88fd93faf73",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
+                "page": 8,
+                "left": 92,
+                "top": 551,
+                "zoom": 2.6889153754469604
+              },
+              "icon": "lucide-file-text",
+              "title": "Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna"
+            }
+          },
+          {
+            "id": "53cd2699aeb0c8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +52,9 @@
               "icon": "lucide-file",
               "title": "Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka"
             }
-          },
-          {
-            "id": "05e584fe484eadf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratch Pad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scratch Pad"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,12 +106,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b8b3b6ae04e3ddc8",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
+    "width": 299.5,
     "collapsed": true
   },
   "right": {
@@ -190,33 +219,54 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "cmdr:Open settings": false
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "cmdr:Open settings": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0bad2b05baae0a23",
+  "active": "53cd2699aeb0c8ce",
   "lastOpenFiles": [
-    "Scratch Pad.md",
+    "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
+    "Book Comments.md",
     "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
+    "Research Books",
+    "Excalidraw/Vivartavada.md",
+    "Media/Vivartavada.png",
+    "Media/Existence vs Form 1.png",
+    "Excalidraw/Form vs Existence.md",
+    "Excalidraw/Book Notes.md",
+    "Media/Existence vs Form.png",
+    "Book/Chapter 0 - Introduction.md",
+    "Scratch Pad.md",
+    "Book/Chapter 0 - Preface.md",
+    "Book/_TOC_.md",
+    "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
+    "Book 2",
+    "Excalidraw",
+    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md",
+    "Book/Chapter 6 - Stages of Self-Inquiry.md",
+    "Media/The Three Bodies.png",
+    "Media/The Three States.png",
+    "Media/Pratibimbhavada.png",
+    "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
+    "Media/Subtle Body not Consciousness.png",
+    "Media/Vasanas Creation.png",
+    "Media/Bodies and States dark.png",
+    "Media/Bodies and States.png",
     "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
-    "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
-    "Book/Chapter 0 - Preface.md",
-    "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
-    "Book/_TOC_.md",
     "Book/The Direct Path of Advaita/Index.md",
     "Book/The Direct Path of Advaita",
     "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
-    "Book/Chapter 6 - Stages of Self-Inquiry.md",
-    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md",
-    "Book/Chapter 0 - Introduction.md",
     "Media",
-    "Media/Qualifications.png",
     "Book/Chapter 7 - What Self-Inquiry Is NOT - Clarifying Common Confusions.md",
     "Chapter 0 - Introduction.md",
     "Book",
@@ -227,13 +277,7 @@
     "Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
     "Chapter 6 - Stages of Self-Inquiry.md",
     "Chapter 5 - The Nature and Authority of Self-Inquiry.md",
-    "Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
-    "Chapter 2 - Advaita's Teaching - What You Actually Are.md",
-    "Chapter 1 - What Am I - The Most Intimate Question.md",
-    "Chapter 0 - Preface.md",
     "Current Work/Book - Self Inquiry Without God",
-    "Current Work",
-    "Chapter 6 -  Stages of Self- Inquiry.md",
-    "Book - Self Inquiry Without God"
+    "Current Work"
   ]
 }

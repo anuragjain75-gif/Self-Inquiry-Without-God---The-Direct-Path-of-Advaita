@@ -62,7 +62,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "> [!comment]\n> **{{DATE:Do MMM}}:** {{value}}"
+        "format": "> [!comment]\n> **{{DATE:Do MMM}}:** {{value}} ^ref1"
       },
       "insertAfter": {
         "enabled": false,

@@ -1,9 +1,6 @@
 ---
 cssclasses: full-width-active
 ---
-
-
-
 My journey in self-inquiry started in college when I was about twenty years old. Like young Nachiketa in the Katha Upanishad, I was suddenly gripped by a terrible clarity: life was meaningless and purposeless in the face of death. Every worldly achievement—every prize, every triumph, every carefully constructed identity—would ultimately be claimed by death, dissolved back into nothing. Nachiketa at least had intimations of something beyond, some reality that death could not touch. I had no such comfort. Born in India, the very soil that had given birth to Nachiketa’s fierce questioning millennia ago, I had somehow inherited none of that wisdom. My education, like that of so many middle-class Indians of my generation, had been thoroughly secular, rooted in science and material success. Spiritual inquiry belonged to temple rituals and grandmother’s stories, not to serious young men planning careers. I set out on what would become a long road of self-inquiry without any map, without any framework for understanding something beyond the material world, without even knowing if such a thing existed.
 
 My first serious book on spirituality was one from my father’s collection—_The Autobiography of a Yogi_ by Paramahansa Yogananda, steeped in mysticism and filled with accounts of yogic miracles. This book had such a powerful impact on my young, vulnerable mind that I came within a hair’s breadth of donning the saffron robe and becoming a renunciant. Then destiny intervened. One day, strolling through my college library, I watched as a book inexplicably tipped from a shelf and fell at my feet. On its cover was a man with a magnetic face. The book was _The Network of Thought_ by Jiddu Krishnamurti.
