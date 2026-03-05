@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "fb6ae88fd93faf73",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
-                "page": 8,
-                "left": 91,
-                "top": 555,
-                "zoom": 2.1239570917759236
-              },
-              "icon": "lucide-file-text",
-              "title": "Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna"
-            }
-          },
-          {
             "id": "53cd2699aeb0c8ce",
             "type": "leaf",
             "state": {
@@ -70,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "d66c704814638c26",
@@ -229,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,10 +235,12 @@
   },
   "active": "53cd2699aeb0c8ce",
   "lastOpenFiles": [
-    "Scratch Pad.md",
-    "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
+    "Excalidraw/Waking State Same As Dream State.md",
     "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
     "Book Comments.md",
+    "Media/Waking Same As Dreaming.png",
+    "Scratch Pad.md",
+    "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
     "Research Books",
     "Excalidraw/Vivartavada.md",
     "Media/Vivartavada.png",
@@ -275,7 +263,6 @@
     "Media/Subtle Body not Consciousness.png",
     "Media/Vasanas Creation.png",
     "Media/Bodies and States dark.png",
-    "Media/Bodies and States.png",
     "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
     "Book/The Direct Path of Advaita/Index.md",
@@ -291,7 +278,6 @@
     "Current Work/_TOC_.md",
     "Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
     "Chapter 6 - Stages of Self-Inquiry.md",
-    "Chapter 5 - The Nature and Authority of Self-Inquiry.md",
     "Current Work/Book - Self Inquiry Without God",
     "Current Work"
   ]
