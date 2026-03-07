@@ -12,3 +12,4 @@ toc: "true"
 [[Chapter 5 - The Nature and Authority of Self-Inquiry]]
 [[Chapter 6 - Stages of Self-Inquiry]]
 [[Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions]]
+[[Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka]]

@@ -1,32 +1,30 @@
 ---
 cssclasses: full-width-active
 ---
-## 2. Analogy to make this vivid
+- I have mentioned about the Mandukya Karika and the DDV, when they were authored in the Introduction. 
 
-- **Drig–Drishya–Viveka**:  
-    “The snake is only an appearance on the rope.”
-    
-- **Mandukya Karika**:  
-    “There was never a snake, never an appearance, never even ignorance.” 
+### Plan for Chapter 9
 
-The first statement is Vivartavāda.  
-The second dissolves Vivartavāda itself.
+Chapter 9 follows Chapter 8 which established the world as an illusory appearance as per Vivartavada. I am writing this as the final chapter - the culmination of Advaitic inquiry - Ajativada. The Chapter should logically deconstruct Vivartavada which results in the dropping of the Witness and realization of only unborn Brahman existing. 
 
+### A Brief Summary About Mandukya
 
-## 3. The teaching unfolds through **five distinct stages**:
+- The central theme of the text is **Ajativada**, or the theory of non-origination, which asserts that **creation never actually happened** 
+- It surveys the creation theories of different schools and shows that they give contradictory accounts of how creation happen. To an intelligent seeker, this contradiction itself should ring the alarm bell about the fact that how can truth be so different in different schools. The **Advaitin does not quarrel** with these schools. Instead, the Advaitin views their mutual refutations as a spontaneous demonstration of the Truth of non-origination. The text even suggests that for those who cannot yet grasp absolute non-manifestation, the "illusory" theories are taught out of **compassion** as a stepping stone.
+- After surveying the various creation theories, the Mandukya shows that all creation theories have a theory on cause and effect. The Mandukya investigates all possible cause-effect theories and shows their logic to be inherently inconsistent.
+- Thus it proves that all theories that propose a cause-effect transformation either really or illusorily are false. Ajativada or the theory of non-origination is the only truth
+- In order to experientially demonstrate how there can be diverse appearances despite no creation happening it talks about the example of the patterns created by the whirling torch. 
+### What I want in the Chapter
 
-1. Enumeration of the Three Types of Seers (Verses 1–5)
-2. Formation and Function of the Seers (Verses 6–12)
-3. The Cause of Samsara and its Remedies (Verses 13–21)
-4. Vedantic Meditation and its Benefits (Verses 22–31)
-5. Summary of the Teaching - The Three Kinds of Jiva (Verses 32–46)
-
-The following points need to be kept in mind.
-
-1.) One should not meditate on Consciousness as the Witness because the Witness is not yet known. One should rather abide as the Reflected Consciousness/Observer. I dont know why the DDV makes this goof up.
-
-2.) Verse 26 as per me is where akhandakara vritti strikes and one comes to know oneself as the Witness. Thereafter no effort is required. 
-
-3.) The first set of meditations have to be practiced first to reach the Witness stage because the status of objects seen depends upon where the seer stands. With eyes one sees objects as physical, with mind one sees objects as thoughts and as Witness one starts seeing them as Awareness.
-
-4.) The second set of meditations begin after the akhandakara vritti
+- Introduce Mandukya as a text that has Ajativada as it's central text.
+- Give a brief summary about the text in terms of what I have written above.
+- Show and quote all verses where the Mandukya surveys all the creation theories of different schools, talking about their contradictions
+- Show the verse where Mandukya says that it has no contradiction because it shows that no creation has happened
+- Show and quote all verses where Mandukya shows that creation theories are dependent on cause and effect
+- Show and quote all verses where Mandukya shows that all cases of cause and effect are logically inconsistent.
+- By showing that all theories of cause and effect are inconsistent it shows that Ajativada is the only truth
+- Show and quote all verses where the Mandukya says that creation theories are given out as a provisional theory to those who are interested in knowing truth but do not yet possess the intellect to understand the logic of non-origination. 
+- Show and quote all verses where Mandukya experientially demonstrate how there can be diverse appearances despite no creation happening it talks about the example of the patterns created by the whirling torch. 
+- Since no universe was born either illusorily or really, there is no object for the Witness to Witness. The Witness superimposition also ends. 
+- Manana questions if any
+- Conclusion
