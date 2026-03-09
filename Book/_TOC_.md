@@ -13,3 +13,4 @@ toc: "true"
 [[Chapter 6 - Stages of Self-Inquiry]]
 [[Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions]]
 [[Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka]]
+[[Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness]]
