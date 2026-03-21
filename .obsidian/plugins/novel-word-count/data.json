@@ -1201,11 +1201,11 @@
       "sizeInBytes": 67428,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 34.06333333333333,
-        "wordCount": 10219,
-        "characterCount": 66707,
-        "nonWhitespaceCharacterCount": 55979,
-        "newlineCount": 436
+        "pageCount": 33.67,
+        "wordCount": 10101,
+        "characterCount": 65948,
+        "nonWhitespaceCharacterCount": 55343,
+        "newlineCount": 432
       },
       "frontmatter": {
         "cssclasses": "full-width-active"
@@ -1506,6 +1506,36 @@
         "characterCount": 39280,
         "nonWhitespaceCharacterCount": 33450,
         "newlineCount": 162
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 10.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5879,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 19.596666666666668,
+      "characterCount": 37635,
+      "nonWhitespaceCharacterCount": 31539,
+      "newlineCount": 172,
+      "readingTimeInMinutes": 22.184905660377357,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1774106062699,
+      "modifiedDate": 1774106857150,
+      "sizeInBytes": 37990,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       },
       "frontmatter": {
         "cssclasses": "full-width-active"

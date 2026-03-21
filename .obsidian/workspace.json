@@ -40,17 +40,17 @@
             }
           },
           {
-            "id": "e3b1bd1b4d958c5a",
+            "id": "dfc479853dfe23bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+                "file": "Book/Chapter 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Advaita's Teaching - What You Actually Are"
+              "title": "Chapter 10"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+                "file": "Book/Chapter 10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2 - Advaita's Teaching - What You Actually Are"
+              "title": "Outline of Chapter 10"
             }
           }
         ],
@@ -230,11 +230,12 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "e3b1bd1b4d958c5a",
+  "active": "dfc479853dfe23bb",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-03-21 12.16.40.excalidraw.md",
-    "Book/Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness.md",
+    "Book Comments.md",
+    "Book/Chapter 10.md",
     "Book/_TOC_.md",
+    "Book/Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness.md",
     "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
     "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
     "Book/Chapter 6 - Stages of Self-Inquiry.md",
@@ -245,10 +246,10 @@
     "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
     "Book/Chapter 0 - Introduction.md",
     "Book/Chapter 0 - Preface.md",
+    "Excalidraw/Drawing 2026-03-21 12.16.40.excalidraw.md",
     "Book/Self-Inquiry Without God/Index.md",
     "Book/Self-Inquiry Without God",
     "Book/Chapter 10.md",
-    "Book Comments.md",
     "Excalidraw/How Witnessing Exhausts Vasanas.md",
     "Media/How Witnessing Exhausts Vasanas.png",
     "Excalidraw/Deconstruction of Memory.png",
@@ -265,7 +266,6 @@
     "Excalidraw/The Three States.md",
     "Media/Bodies and States.png",
     "Excalidraw/Three Bodies and States.md",
-    "Excalidraw/No Vasanas.md",
     "Excalidraw/Witnessing.excalidraw",
     "Excalidraw/No Vasanas Formed.excalidraw",
     "Media/Witnessing.png",
