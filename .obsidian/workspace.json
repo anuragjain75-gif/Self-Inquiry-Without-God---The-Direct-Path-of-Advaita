@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "dfc479853dfe23bb",
+            "id": "d5bae6fea1f16458",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,7 +117,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 10.md",
+                "file": "Book Comments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 10"
+              "title": "Outline of Book Comments"
             }
           }
         ],
@@ -230,10 +231,11 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "dfc479853dfe23bb",
+  "active": "d5bae6fea1f16458",
   "lastOpenFiles": [
-    "Book Comments.md",
     "Book/Chapter 10.md",
+    "Book Comments.md",
+    "Scratch Pad.md",
     "Book/_TOC_.md",
     "Book/Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness.md",
     "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
@@ -249,7 +251,6 @@
     "Excalidraw/Drawing 2026-03-21 12.16.40.excalidraw.md",
     "Book/Self-Inquiry Without God/Index.md",
     "Book/Self-Inquiry Without God",
-    "Book/Chapter 10.md",
     "Excalidraw/How Witnessing Exhausts Vasanas.md",
     "Media/How Witnessing Exhausts Vasanas.png",
     "Excalidraw/Deconstruction of Memory.png",
@@ -261,7 +262,6 @@
     "Excalidraw/Negating Asatkarvada.md",
     "Media/Negating Asatkaryavada.png",
     "Media/Negating Asatkarvada.png",
-    "Scratch Pad.md",
     "Excalidraw/Subtle Body Not Consciousness.md",
     "Excalidraw/The Three States.md",
     "Media/Bodies and States.png",
