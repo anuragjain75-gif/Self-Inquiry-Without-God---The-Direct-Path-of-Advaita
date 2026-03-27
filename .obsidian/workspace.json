@@ -40,17 +40,17 @@
             }
           },
           {
-            "id": "d5bae6fea1f16458",
+            "id": "055e5054c864d268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 10.md",
+                "file": "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 10"
+              "title": "Chapter 2 - Advaita's Teaching - What You Actually Are"
             }
           }
         ],
@@ -117,8 +117,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Comments.md",
+                "file": "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Book Comments"
+              "title": "Outline of Chapter 2 - Advaita's Teaching - What You Actually Are"
             }
           }
         ],
@@ -215,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,11 +229,11 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "d5bae6fea1f16458",
+  "active": "055e5054c864d268",
   "lastOpenFiles": [
-    "Book/Chapter 10.md",
+    "Book/Chapter 10 — Epilogue - Sahaja — The Return to the Beginning.md",
     "Book Comments.md",
-    "Scratch Pad.md",
+    "Book/Chapter 0 - Preface.md",
     "Book/_TOC_.md",
     "Book/Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness.md",
     "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
@@ -247,7 +245,7 @@
     "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
     "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
     "Book/Chapter 0 - Introduction.md",
-    "Book/Chapter 0 - Preface.md",
+    "Scratch Pad.md",
     "Excalidraw/Drawing 2026-03-21 12.16.40.excalidraw.md",
     "Book/Self-Inquiry Without God/Index.md",
     "Book/Self-Inquiry Without God",

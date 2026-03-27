@@ -68,6 +68,36 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "Scratch Pad.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 108,
+      "nonWhitespaceCharacterCount": 86,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771943731982,
+      "modifiedDate": 1773761782561,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 108,
+        "nonWhitespaceCharacterCount": 86,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
     "Media/Witnessing.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -365,33 +395,6 @@
         "newlineCount": 0
       }
     },
-    "Media/Negating Asatkaryavada.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773924793377,
-      "modifiedDate": 1773924793379,
-      "sizeInBytes": 316646,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Media/No Vasanas.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -410,6 +413,33 @@
       "createdDate": 1773038235894,
       "modifiedDate": 1773038235895,
       "sizeInBytes": 211040,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Media/Negating Asatkaryavada.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773924793377,
+      "modifiedDate": 1773924793379,
+      "sizeInBytes": 316646,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -554,31 +584,31 @@
         "newlineCount": 0
       }
     },
-    "Book Comments.md": {
-      "isCountable": true,
+    "Excalidraw/Waking State Same As Dream State.md": {
+      "isCountable": false,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 123,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41,
-      "characterCount": 2012,
-      "nonWhitespaceCharacterCount": 1170,
-      "newlineCount": 70,
-      "readingTimeInMinutes": 0.4641509433962264,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772345375718,
-      "modifiedDate": 1772346870654,
-      "sizeInBytes": 2016,
+      "aliases": [],
+      "createdDate": 1772735288865,
+      "modifiedDate": 1772735656298,
+      "sizeInBytes": 43307,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.41,
-        "wordCount": 123,
-        "characterCount": 2012,
-        "nonWhitespaceCharacterCount": 1170,
-        "newlineCount": 70
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Excalidraw/Vivartavada.md": {
@@ -599,60 +629,6 @@
       "createdDate": 1772353290847,
       "modifiedDate": 1772353854761,
       "sizeInBytes": 16143,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Excalidraw/Form vs Existence.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772352010513,
-      "modifiedDate": 1772352048960,
-      "sizeInBytes": 14265,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Excalidraw/Waking State Same As Dream State.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772735288865,
-      "modifiedDate": 1772735656298,
-      "sizeInBytes": 43307,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1013,7 +989,7 @@
         "newlineCount": 0
       }
     },
-    "Excalidraw/Deconstruction of Memory.md": {
+    "Excalidraw/Form vs Existence.md": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1028,9 +1004,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1773982642220,
-      "modifiedDate": 1773982763722,
-      "sizeInBytes": 21859,
+      "createdDate": 1772352010513,
+      "modifiedDate": 1772352048960,
+      "sizeInBytes": 14265,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1067,6 +1043,33 @@
         "newlineCount": 0
       }
     },
+    "Excalidraw/Deconstruction of Memory.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773982642220,
+      "modifiedDate": 1773982763722,
+      "sizeInBytes": 21859,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "Excalidraw/Book Notes.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1094,31 +1097,58 @@
         "newlineCount": 0
       }
     },
-    "Scratch Pad.md": {
+    "Book Comments.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 17,
+      "wordCount": 123,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 108,
-      "nonWhitespaceCharacterCount": 86,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.06415094339622641,
+      "pageCount": 0.41,
+      "characterCount": 2012,
+      "nonWhitespaceCharacterCount": 1170,
+      "newlineCount": 70,
+      "readingTimeInMinutes": 0.4641509433962264,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1771943731982,
-      "modifiedDate": 1773761782561,
-      "sizeInBytes": 145,
+      "createdDate": 1772345375718,
+      "modifiedDate": 1772346870654,
+      "sizeInBytes": 2016,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.056666666666666664,
-        "wordCount": 17,
-        "characterCount": 108,
-        "nonWhitespaceCharacterCount": 86,
-        "newlineCount": 4
+        "pageCount": 0.41,
+        "wordCount": 123,
+        "characterCount": 2012,
+        "nonWhitespaceCharacterCount": 1170,
+        "newlineCount": 70
+      }
+    },
+    "Book/Chapter 10 — Epilogue - Sahaja — The Return to the Beginning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7924,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 26.413333333333334,
+      "characterCount": 50417,
+      "nonWhitespaceCharacterCount": 42226,
+      "newlineCount": 179,
+      "readingTimeInMinutes": 29.90188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1774106062699,
+      "modifiedDate": 1774275426554,
+      "sizeInBytes": 51000,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 26.413333333333334,
+        "wordCount": 7924,
+        "characterCount": 50417,
+        "nonWhitespaceCharacterCount": 42226,
+        "newlineCount": 179
       },
       "frontmatter": {
         "cssclasses": "full-width-active"
@@ -1128,60 +1158,30 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 94,
+      "wordCount": 103,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.31333333333333335,
-      "characterCount": 731,
-      "nonWhitespaceCharacterCount": 618,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 0.35471698113207545,
-      "linkCount": 11,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 796,
+      "nonWhitespaceCharacterCount": 671,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.3886792452830189,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1771935416803,
-      "modifiedDate": 1772964474159,
-      "sizeInBytes": 752,
+      "modifiedDate": 1774277808257,
+      "sizeInBytes": 821,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.31333333333333335,
-        "wordCount": 94,
-        "characterCount": 731,
-        "nonWhitespaceCharacterCount": 618,
-        "newlineCount": 15
+        "pageCount": 0.3433333333333333,
+        "wordCount": 103,
+        "characterCount": 796,
+        "nonWhitespaceCharacterCount": 671,
+        "newlineCount": 16
       },
       "frontmatter": {
         "toc": "true"
-      }
-    },
-    "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 31162,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 103.87333333333333,
-      "characterCount": 203437,
-      "nonWhitespaceCharacterCount": 170667,
-      "newlineCount": 915,
-      "readingTimeInMinutes": 117.59245283018868,
-      "linkCount": 0,
-      "embedCount": 10,
-      "aliases": null,
-      "createdDate": 1772008648740,
-      "modifiedDate": 1773028256551,
-      "sizeInBytes": 206162,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 103.87333333333333,
-        "wordCount": 31162,
-        "characterCount": 203437,
-        "nonWhitespaceCharacterCount": 170667,
-        "newlineCount": 915
-      },
-      "frontmatter": {
-        "cssclasses": "full-width-active"
       }
     },
     "Book/Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness.md": {
@@ -1209,6 +1209,36 @@
         "characterCount": 65948,
         "nonWhitespaceCharacterCount": 55343,
         "newlineCount": 432
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31162,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 103.87333333333333,
+      "characterCount": 203437,
+      "nonWhitespaceCharacterCount": 170667,
+      "newlineCount": 915,
+      "readingTimeInMinutes": 117.59245283018868,
+      "linkCount": 0,
+      "embedCount": 10,
+      "aliases": null,
+      "createdDate": 1772008648740,
+      "modifiedDate": 1773028256551,
+      "sizeInBytes": 206162,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 103.87333333333333,
+        "wordCount": 31162,
+        "characterCount": 203437,
+        "nonWhitespaceCharacterCount": 170667,
+        "newlineCount": 915
       },
       "frontmatter": {
         "cssclasses": "full-width-active"
@@ -1380,7 +1410,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1771651815542,
-      "modifiedDate": 1772177590711,
+      "modifiedDate": 1774588942395,
       "sizeInBytes": 79466,
       "sessionStart": {
         "noteCount": 1,
@@ -1389,36 +1419,6 @@
         "characterCount": 78633,
         "nonWhitespaceCharacterCount": 66453,
         "newlineCount": 666
-      },
-      "frontmatter": {
-        "cssclasses": "full-width-active"
-      }
-    },
-    "Book/Chapter 10.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7675,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 25.583333333333332,
-      "characterCount": 48924,
-      "nonWhitespaceCharacterCount": 40970,
-      "newlineCount": 191,
-      "readingTimeInMinutes": 28.962264150943398,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1774106062699,
-      "modifiedDate": 1774198992370,
-      "sizeInBytes": 49503,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 25.99,
-        "wordCount": 7797,
-        "characterCount": 49661,
-        "nonWhitespaceCharacterCount": 41582,
-        "newlineCount": 192
       },
       "frontmatter": {
         "cssclasses": "full-width-active"
