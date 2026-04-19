@@ -58,12 +58,12 @@
   "env": {},
   "showExportProgressBar": true,
   "customDefaultExportDirectory": {
-    "linux": "/home/anurag"
+    "linux": "/home/anurag/Documents"
   },
   "openExportedFileLocation": true,
   "lastEditName": "Epub",
   "lastExportDirectory": {
-    "linux": "/home/anurag"
+    "linux": "/home/anurag/Documents"
   },
-  "lastExportType": "Epub"
+  "lastExportType": "Html"
 }

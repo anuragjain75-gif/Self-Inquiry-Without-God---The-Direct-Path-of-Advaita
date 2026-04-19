@@ -8,53 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ea87425e8572246",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratch Pad.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Scratch Pad"
-            }
-          },
-          {
-            "id": "977ac687b9dee6f3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Comments.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Book Comments"
-            }
-          },
-          {
             "id": "055e5054c864d268",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Book Progress.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Book Progress"
+            }
+          },
+          {
+            "id": "0bad6e0cb127850a",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+                "file": "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Advaita's Teaching - What You Actually Are"
+              "title": "Chapter 1 - What Am I - The Most Intimate Question"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+                "file": "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2 - Advaita's Teaching - What You Actually Are"
+              "title": "Outline of Chapter 1 - What Am I - The Most Intimate Question"
             }
           }
         ],
@@ -214,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,25 +217,31 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
       "cmdr:Open settings": false
     }
   },
-  "active": "055e5054c864d268",
+  "active": "0bad6e0cb127850a",
   "lastOpenFiles": [
-    "Book/Chapter 10 — Epilogue - Sahaja — The Return to the Beginning.md",
-    "Book Comments.md",
+    "Chapter 1.md",
+    "Book Progress.md",
+    "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
+    "Book/Chapter 0 - Introduction.md",
+    "Introduction Publish Draft.md",
+    "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
+    "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
+    "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book/Chapter 0 - Preface.md",
+    "Untitled Kanban.md",
+    "Book/Chapter 0 - Preface.epub",
+    "Book Comments.md",
+    "Book/Chapter 10 — Epilogue - Sahaja — The Return to the Beginning.md",
     "Book/_TOC_.md",
     "Book/Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness.md",
-    "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
     "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
     "Book/Chapter 6 - Stages of Self-Inquiry.md",
     "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md",
     "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
-    "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
-    "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
-    "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
-    "Book/Chapter 0 - Introduction.md",
     "Scratch Pad.md",
     "Excalidraw/Drawing 2026-03-21 12.16.40.excalidraw.md",
     "Book/Self-Inquiry Without God/Index.md",
@@ -260,10 +257,7 @@
     "Excalidraw/Negating Asatkarvada.md",
     "Media/Negating Asatkaryavada.png",
     "Media/Negating Asatkarvada.png",
-    "Excalidraw/Subtle Body Not Consciousness.md",
-    "Excalidraw/The Three States.md",
     "Media/Bodies and States.png",
-    "Excalidraw/Three Bodies and States.md",
     "Excalidraw/Witnessing.excalidraw",
     "Excalidraw/No Vasanas Formed.excalidraw",
     "Media/Witnessing.png",
@@ -274,7 +268,6 @@
     "Book 2",
     "Excalidraw",
     "Book/The Direct Path of Advaita",
-    "Media",
-    "Book"
+    "Media"
   ]
 }

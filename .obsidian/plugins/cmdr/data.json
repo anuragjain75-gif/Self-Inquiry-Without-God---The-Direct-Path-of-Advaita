@@ -28,7 +28,9 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Create new board"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
