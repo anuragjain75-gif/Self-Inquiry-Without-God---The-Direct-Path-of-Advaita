@@ -42,8 +42,23 @@
               "icon": "lucide-file",
               "title": "Chapter 2 - Advaita's Teaching - What You Actually Are"
             }
+          },
+          {
+            "id": "2ffb0a14d92f159f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Progress.md",
+                "file": "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Book Progress"
+              "title": "Outline of Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages"
             }
           }
         ],
@@ -203,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,17 +234,21 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "055e5054c864d268",
+  "active": "2ffb0a14d92f159f",
   "lastOpenFiles": [
+    "Media/Two-Way Superimposition.png",
     "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
-    "Chapter 2.md",
+    "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+    "Media/Path is Also in Ignorance.png",
+    "Media/Two Way Superimposition.png",
+    "Media/Superimposition and Negation.png",
     "Book Progress.md",
+    "Chapter 2.md",
     "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
     "Chapter 1.md",
     "Book/Chapter 0 - Introduction.md",
     "Introduction Publish Draft.md",
     "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
-    "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book/Chapter 0 - Preface.md",
     "Untitled Kanban.md",
     "Book/Chapter 0 - Preface.epub",
@@ -253,15 +271,11 @@
     "Media/Gaudapada's Exhaustive Demolition of Causation.png",
     "Excalidraw/Gaudapada's Exhaustive Demolition of Causation.md",
     "Media/Inability to Sequence Cause and Effect.png",
-    "Excalidraw/Inability to Sequence Cause and Effect.md",
     "Media/Negating Asatkaryavada.png",
     "Media/Negating Asatkarvada.png",
     "Media/Bodies and States.png",
     "Excalidraw/Witnessing.excalidraw",
     "Excalidraw/No Vasanas Formed.excalidraw",
-    "Media/Witnessing.png",
-    "Media/No Vasanas.png",
-    "Media/The Three States.png",
     "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
     "Research Books",
     "Book 2",
