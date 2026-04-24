@@ -218,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +237,7 @@
   },
   "active": "2ffb0a14d92f159f",
   "lastOpenFiles": [
+    "Media/Samkhya Evolution.png",
     "Media/Two-Way Superimposition.png",
     "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
     "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
@@ -273,7 +275,6 @@
     "Media/Inability to Sequence Cause and Effect.png",
     "Media/Negating Asatkaryavada.png",
     "Media/Negating Asatkarvada.png",
-    "Media/Bodies and States.png",
     "Excalidraw/Witnessing.excalidraw",
     "Excalidraw/No Vasanas Formed.excalidraw",
     "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",
