@@ -37,7 +37,7 @@ Chapter 2's teaching operated entirely within this methodology—building the fr
 
 The term adhyāropa (literally "placing upon" or superimposition) refers to the provisional acceptance of concepts, distinctions, and frameworks that are ultimately untenable from the absolute standpoint (pāramārthika) but pedagogically essential for the student trapped in ignorance (avidyā). The complementary apavāda (negation or removal) systematically dismantles these very constructions once they have served their purpose—like Wittgenstein's famous ladder that must be thrown away after one has climbed it, or the raft in the Buddhist Vajracchedikā Prajñāpāramitā Sūtra that is abandoned upon reaching the far shore.
 
-![[Superimposition and Negation.png]]
+[Superimposition and Negation - Image](https://github.com/anuragjain75-gif/Self-Inquiry-Without-God---The-Direct-Path-of-Advaita/blob/746d4c2ee6d859e2ff25570bf4a03886d3bde4a2/Media/Superimposition%20and%20Negation.png)
 
 ### 1.1. The Psychological Necessity of Gradual Disclosure
 
