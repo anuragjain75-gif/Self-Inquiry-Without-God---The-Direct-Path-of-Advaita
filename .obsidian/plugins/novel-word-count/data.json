@@ -98,33 +98,6 @@
         "cssclasses": "full-width-active"
       }
     },
-    "Media/Negating Asatkaryavada.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773924793377,
-      "modifiedDate": 1773924793379,
-      "sizeInBytes": 316646,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Media/Witnessing.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -557,6 +530,33 @@
         "newlineCount": 0
       }
     },
+    "Media/Negating Asatkaryavada.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773924793377,
+      "modifiedDate": 1773924793379,
+      "sizeInBytes": 316646,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "Media/Inability to Sequence Cause and Effect.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -692,87 +692,6 @@
         "newlineCount": 0
       }
     },
-    "Excalidraw/Vivartavada.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772353290847,
-      "modifiedDate": 1772353854761,
-      "sizeInBytes": 16143,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Excalidraw/Form vs Existence.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772352010513,
-      "modifiedDate": 1772352048960,
-      "sizeInBytes": 14265,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Excalidraw/Qualifications.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773041348988,
-      "modifiedDate": 1770913316471,
-      "sizeInBytes": 11748,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Excalidraw/Waking State Same As Dream State.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -791,6 +710,33 @@
       "createdDate": 1772735288865,
       "modifiedDate": 1772735656298,
       "sizeInBytes": 43307,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Excalidraw/Vivartavada.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772353290847,
+      "modifiedDate": 1772353854761,
+      "sizeInBytes": 16143,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -854,33 +800,6 @@
         "newlineCount": 0
       }
     },
-    "Excalidraw/Subtle Body Not Consciousness.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773041818288,
-      "modifiedDate": 1772297646462,
-      "sizeInBytes": 16684,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Excalidraw/The Three States.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -935,6 +854,33 @@
         "newlineCount": 0
       }
     },
+    "Excalidraw/Subtle Body Not Consciousness.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773041818288,
+      "modifiedDate": 1772297646462,
+      "sizeInBytes": 16684,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "Excalidraw/Sensations Trigger Thinker.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -953,6 +899,33 @@
       "createdDate": 1773040097784,
       "modifiedDate": 1773040128114,
       "sizeInBytes": 19071,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Excalidraw/Qualifications.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773041348988,
+      "modifiedDate": 1770913316471,
+      "sizeInBytes": 11748,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1124,6 +1097,33 @@
         "newlineCount": 0
       }
     },
+    "Excalidraw/Form vs Existence.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772352010513,
+      "modifiedDate": 1772352048960,
+      "sizeInBytes": 14265,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "Excalidraw/Deconstruction of Memory.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1262,66 +1262,6 @@
         "newlineCount": 70
       }
     },
-    "Book/Chapter 6 - Stages of Self-Inquiry.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5779,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 19.263333333333332,
-      "characterCount": 37698,
-      "nonWhitespaceCharacterCount": 31677,
-      "newlineCount": 198,
-      "readingTimeInMinutes": 21.807547169811322,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1771776759605,
-      "modifiedDate": 1772000225747,
-      "sizeInBytes": 37985,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 19.263333333333332,
-        "wordCount": 5779,
-        "characterCount": 37698,
-        "nonWhitespaceCharacterCount": 31677,
-        "newlineCount": 198
-      },
-      "frontmatter": {
-        "cssclasses": "full-width-active"
-      }
-    },
-    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4742,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 15.806666666666667,
-      "characterCount": 32806,
-      "nonWhitespaceCharacterCount": 27952,
-      "newlineCount": 191,
-      "readingTimeInMinutes": 17.89433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1771774039478,
-      "modifiedDate": 1771774179320,
-      "sizeInBytes": 33067,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 15.806666666666667,
-        "wordCount": 4742,
-        "characterCount": 32806,
-        "nonWhitespaceCharacterCount": 27952,
-        "newlineCount": 191
-      },
-      "frontmatter": {
-        "cssclasses": "full-width-active"
-      }
-    },
     "Book/_TOC_.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1338,8 +1278,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1771935416803,
-      "modifiedDate": 1774277808257,
-      "sizeInBytes": 821,
+      "modifiedDate": 1777037976746,
+      "sizeInBytes": 819,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3433333333333333,
@@ -1442,6 +1382,66 @@
         "cssclasses": "full-width-active"
       }
     },
+    "Book/Chapter 6 - Stages of Self-Inquiry.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5779,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 19.263333333333332,
+      "characterCount": 37698,
+      "nonWhitespaceCharacterCount": 31677,
+      "newlineCount": 198,
+      "readingTimeInMinutes": 21.807547169811322,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771776759605,
+      "modifiedDate": 1772000225747,
+      "sizeInBytes": 37985,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 19.263333333333332,
+        "wordCount": 5779,
+        "characterCount": 37698,
+        "nonWhitespaceCharacterCount": 31677,
+        "newlineCount": 198
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4742,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 15.806666666666667,
+      "characterCount": 32806,
+      "nonWhitespaceCharacterCount": 27952,
+      "newlineCount": 191,
+      "readingTimeInMinutes": 17.89433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771774039478,
+      "modifiedDate": 1771774179320,
+      "sizeInBytes": 33067,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 15.806666666666667,
+        "wordCount": 4742,
+        "characterCount": 32806,
+        "nonWhitespaceCharacterCount": 27952,
+        "newlineCount": 191
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
     "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1476,27 +1476,27 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 12693,
+      "wordCount": 12690,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 42.31,
-      "characterCount": 87720,
-      "nonWhitespaceCharacterCount": 74616,
+      "pageCount": 42.3,
+      "characterCount": 88166,
+      "nonWhitespaceCharacterCount": 75064,
       "newlineCount": 560,
-      "readingTimeInMinutes": 47.89811320754717,
+      "readingTimeInMinutes": 47.886792452830186,
       "linkCount": 0,
-      "embedCount": 4,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1771651815746,
-      "modifiedDate": 1776972494809,
-      "sizeInBytes": 89160,
+      "createdDate": 1777038195659,
+      "modifiedDate": 1777052047089,
+      "sizeInBytes": 89606,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 42.31,
         "wordCount": 12693,
-        "characterCount": 87720,
-        "nonWhitespaceCharacterCount": 74616,
-        "newlineCount": 560
+        "characterCount": 88200,
+        "nonWhitespaceCharacterCount": 75095,
+        "newlineCount": 561
       },
       "frontmatter": {
         "cssclasses": "full-width-active"
@@ -1527,6 +1527,36 @@
         "characterCount": 77671,
         "nonWhitespaceCharacterCount": 65710,
         "newlineCount": 633
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
+      }
+    },
+    "Book/Chapter 10 - Epilogue - Sahaja — The Return to the Beginning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7924,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 26.413333333333334,
+      "characterCount": 50417,
+      "nonWhitespaceCharacterCount": 42226,
+      "newlineCount": 179,
+      "readingTimeInMinutes": 29.90188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1774106062699,
+      "modifiedDate": 1774275426554,
+      "sizeInBytes": 51000,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 26.413333333333334,
+        "wordCount": 7924,
+        "characterCount": 50417,
+        "nonWhitespaceCharacterCount": 42226,
+        "newlineCount": 179
       },
       "frontmatter": {
         "cssclasses": "full-width-active"
@@ -1620,33 +1650,6 @@
       },
       "frontmatter": {
         "cssclasses": "full-width-active"
-      }
-    },
-    "Book/Chapter 10 - Epilogue - Sahaja — The Return to the Beginning.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7926,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 26.42,
-      "characterCount": 50454,
-      "nonWhitespaceCharacterCount": 42260,
-      "newlineCount": 181,
-      "readingTimeInMinutes": 29.90943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1774106062699,
-      "modifiedDate": 1774275426554,
-      "sizeInBytes": 51000,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     }
   }

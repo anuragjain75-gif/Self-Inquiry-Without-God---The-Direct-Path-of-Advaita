@@ -37,7 +37,7 @@ Chapter 2's teaching operated entirely within this methodology—building the fr
 
 The term adhyāropa (literally "placing upon" or superimposition) refers to the provisional acceptance of concepts, distinctions, and frameworks that are ultimately untenable from the absolute standpoint (pāramārthika) but pedagogically essential for the student trapped in ignorance (avidyā). The complementary apavāda (negation or removal) systematically dismantles these very constructions once they have served their purpose—like Wittgenstein's famous ladder that must be thrown away after one has climbed it, or the raft in the Buddhist Vajracchedikā Prajñāpāramitā Sūtra that is abandoned upon reaching the far shore.
 
-![Superimposition and Negation - Image](https://github.com/anuragjain75-gif/Self-Inquiry-Without-God---The-Direct-Path-of-Advaita/blob/746d4c2ee6d859e2ff25570bf4a03886d3bde4a2/Media/Superimposition%20and%20Negation.png)
+![](../Media/Superimposition%20and%20Negation.png)
 
 ### 1.1. The Psychological Necessity of Gradual Disclosure
 
@@ -85,7 +85,7 @@ Then, in the reverse direction, you superimpose that pure Self—the Witness of 
 
 This reciprocal superimposition—anyonyādhyāsa, the mutual confusion—creates what we experience as ordinary life. A subject that isn't really a subject (the ego-mind) relates to objects that aren't really separate from it (the world), through means of knowledge that presuppose both subject and object as distinct. The entire architecture of experience as we know it—perceiver, perceived, and perception; knower, known, and knowing; agent, action, and object of action—all of this arises from and depends upon this fundamental confusion.
 
-![Two-Way Superimposition.png](https://github.com/anuragjain75-gif/Self-Inquiry-Without-God---The-Direct-Path-of-Advaita/blob/773d46b1d374c16a4650083e521fbfa9b6b69881/Media/Two-Way%20Superimposition.png)
+![Two-Way Superimposition.png|356](https://github.com/anuragjain75-gif/Self-Inquiry-Without-God---The-Direct-Path-of-Advaita/blob/773d46b1d374c16a4650083e521fbfa9b6b69881/Media/Two-Way%20Superimposition.png)
 
 Chapter 2's analysis of the jīva demonstrated exactly this mutual superimposition in operation. When it explained how you attribute body-states to Awareness ('I am tired,' 'I am aging') and how you treat the inert body-mind as if it were independently conscious—this was illustrating adhyāsa directly. The entire section on the jīva was showing you the structure of the confusion that this chapter now makes methodologically explicit.
 
