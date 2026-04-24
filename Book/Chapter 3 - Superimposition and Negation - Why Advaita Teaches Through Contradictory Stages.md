@@ -85,7 +85,7 @@ Then, in the reverse direction, you superimpose that pure Self—the Witness of 
 
 This reciprocal superimposition—anyonyādhyāsa, the mutual confusion—creates what we experience as ordinary life. A subject that isn't really a subject (the ego-mind) relates to objects that aren't really separate from it (the world), through means of knowledge that presuppose both subject and object as distinct. The entire architecture of experience as we know it—perceiver, perceived, and perception; knower, known, and knowing; agent, action, and object of action—all of this arises from and depends upon this fundamental confusion.
 
-![[Two-Way Superimposition.png]]
+![Two-Way Superimposition.png](https://github.com/anuragjain75-gif/Self-Inquiry-Without-God---The-Direct-Path-of-Advaita/blob/773d46b1d374c16a4650083e521fbfa9b6b69881/Media/Two-Way%20Superimposition.png)
 
 Chapter 2's analysis of the jīva demonstrated exactly this mutual superimposition in operation. When it explained how you attribute body-states to Awareness ('I am tired,' 'I am aging') and how you treat the inert body-mind as if it were independently conscious—this was illustrating adhyāsa directly. The entire section on the jīva was showing you the structure of the confusion that this chapter now makes methodologically explicit.
 
@@ -99,7 +99,7 @@ The shock of this statement reverberates through the centuries. The Upaniṣads 
 
 The unattached Self, the pure Witness, cannot become a knower in the empirical sense because it has no organs, no body, no separation from what would be known. Perception requires eyes; eyes require a body; that body must be experienced as "mine" for perception to occur. Remove the fundamental confusion—"I am this body-mind"—and the entire structure of empirical knowledge collapses. Not because such knowledge is false within its own domain, but because its very possibility depends on the root superimposition.
 
-![[Path is Also in Ignorance.png]]
+![Path is Also in Ignorance.png](https://github.com/anuragjain75-gif/Self-Inquiry-Without-God---The-Direct-Path-of-Advaita/blob/773d46b1d374c16a4650083e521fbfa9b6b69881/Media/Path%20is%20Also%20in%20Ignorance.png)
 
 Even the Vedic injunctions—"A Brahmin should perform sacrifice"—presuppose superimposition. They require first accepting that you are a Brahmin (caste superimposed on the casteless Self), that you are an agent capable of performing actions (doership superimposed on the actionless Witness), that you are at a particular stage of life (temporal stages superimposed on the timeless). Before the instruction can even be heard meaningfully, the entire edifice of identification must already be in place.
 
@@ -247,7 +247,7 @@ The result is a complete and coherent account of both the _jīva_ and the _jagat
 
 _Puruṣa_ — the conscious principle in Sāṃkhya — remains entirely uninvolved throughout. It is pure Consciousness: unchanging, inactive, the mere witness (_sākṣī_) of _Prakṛti_'s evolutionary drama. Bondage arises, Sāṃkhya explains, when _Puruṣa_ mistakes itself for _Prakṛti_'s modifications — particularly for _Buddhi_ and _Ahaṃkāra_, which appear to be conscious because of their proximity to _Puruṣa_. Liberation (_kaivalya_) is the recognition of their absolute distinction: _Puruṣa_ is not _Prakṛti_; the Witness is not what is witnessed.
 
-![[Samkhya Evolution.png]]
+![Samkhya Evolution.png](https://github.com/anuragjain75-gif/Self-Inquiry-Without-God---The-Direct-Path-of-Advaita/blob/main/Media/Samkhya%20Evolution.png)
 
 **Pedagogical Function: Meeting the Seeker in the World of Causality**
 
