@@ -1,3 +1,0 @@
----
-cssclasses: full-width-active
----

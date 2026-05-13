@@ -233,7 +233,6 @@ The assumption: history moves toward improvement, everything advances toward bet
 
 This belief saturates contemporary consciousness. Medical technology advances, communication improves, material comfort spreads. But domain-specific changes don't establish that reality itself has directional movement. The ideology enters when these get elevated into cosmic principle: not just "some things improve" but "everything advances, including consciousness itself."
 
-
 ### 4.1. Progress as Secularized Salvation
 
 Philosopher John Gray argues in books like *Straw Dogs* and *The Silence of Animals* that progress ideology is essentially secularized Christian eschatology. Medieval Christianity promised salvation in heaven after earthly suffering; modernity replaced heaven with utopian future, salvation with progress, God's plan with historical development. The structure remains identical—current incompleteness resolved through future redemption—only the vocabulary changed.
