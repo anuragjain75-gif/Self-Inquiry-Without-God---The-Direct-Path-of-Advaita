@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 09 - The Unborn Alone - Ajātivāda and the End of the Witness.md",
+                "file": "Book/Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 09 - The Unborn Alone - Ajātivāda and the End of the Witness"
+              "title": "Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages"
             }
           }
         ],
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "d66c704814638c26",
@@ -189,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+                "file": "Book/Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages"
+              "title": "Outline of Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages"
             }
           }
         ],
@@ -222,9 +223,11 @@
   },
   "active": "1c00f1621f77b049",
   "lastOpenFiles": [
+    "Media/Name-Form Analysis.png",
+    "Media/Pratibimbavada.png",
+    "Book/Chapter 09 - The Unborn Alone - Ajātivāda and the End of the Witness.md",
     "Book/Chapter 08 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
     "Book/Chapter 10 - Epilogue - Sahaja — The Return to the Beginning.md",
-    "Book/Chapter 09 - The Unborn Alone - Ajātivāda and the End of the Witness.md",
     "Book/Chapter 07 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
     "Book/Chapter 06 - Stages of Self-Inquiry.md",
     "Book/Chapter 05 - The Nature and Authority of Self-Inquiry.md",
@@ -258,7 +261,6 @@
     "Excalidraw/Deconstruction of Memory.md",
     "Media/Gaudapada's Exhaustive Demolition of Causation.png",
     "Media/Inability to Sequence Cause and Effect.png",
-    "Media/Negating Asatkaryavada.png",
     "Excalidraw/Witnessing.excalidraw",
     "Excalidraw/No Vasanas Formed.excalidraw",
     "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",

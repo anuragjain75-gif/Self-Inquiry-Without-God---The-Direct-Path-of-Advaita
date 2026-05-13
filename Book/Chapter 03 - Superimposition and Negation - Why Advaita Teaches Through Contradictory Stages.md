@@ -277,13 +277,19 @@ At this stage, Advaita introduces another explanatory device—not to account fo
 
 #### 3.2.1. The Phenomenological Shift: From World-Creation to Self-Experience
 
-According to this model, Consciousness does not transform, fragment, or enter into bondage. Rather, when Consciousness is associated with the mind—understood here as a subtle, reflective medium—it appears as though Consciousness itself has become a knower, doer, and experiencer. Just as the one sun reflected in many reflecting mediums appears as many, partless Consciousness, reflected in individual minds, appears as many conscious beings. And just as the sun appears to tremble when reflected in moving water, though the sun itself remains unmoving, so too Awareness appears to acquire limitation, agency, and ignorance through its reflection in the mind.
+According to this model, Consciousness does not transform, fragment, or enter into bondage. Rather, when Consciousness is associated with the mind—understood here as a subtle, reflective medium—it appears as though Consciousness itself has become a knower, doer, and experiencer. 
+
+Just as the one sun reflected in many reflecting mediums appears as many, partless Consciousness, reflected in individual minds, appears as many conscious beings. And just as the sun appears to tremble when reflected in moving water, though the sun itself remains unmoving, so too Awareness appears to acquire limitation, agency, and ignorance through its reflection in the mind.
 
 Crucially, this "reflected consciousness" (cidābhāsa) is not a second consciousness, nor a modification of the original. Nothing new is produced, and nothing real is altered. The appearance of individuality arises solely because the mind, being capable of reflection, presents Consciousness in a conditioned form. The resulting sense of "I"—the one who thinks, chooses, acts, and suffers—is thus an appearance dependent on the reflecting medium, not an intrinsic feature of Consciousness itself.
 
+The mind reflecting Consciousness is not an arbitrary designation. The _pariṇāmavāda_ framework examined in the preceding stage already contains the answer. Sāṃkhya's account of _Prakṛti_'s evolution is stratified by the three _guṇas_, and it is this very stratification that determines which evolutes are capable of serving as a reflective medium for Consciousness. The _antaḥkaraṇa_ — mind and intellect — arises from the _sattva_-dominant aspect of _Ahaṃkāra_: it is luminous, fine-grained, and transparent in its modifications. Because of this sattvic constitution, the _buddhi_ possesses the capacity to become suffused with the luminosity of the Self, much as a polished mirror receives and renders visible a light it does not itself produce. The gross body, by contrast, arises from the _tamas_-dominant aspect of _Ahaṃkāra_ — dense, opaque, and inert — and, like an unpolished stone, neither receives nor transmits that light. It is precisely for this reason that only the _antaḥkaraṇa_, and not the body, can function as the reflective medium of Consciousness. _Pratibimbavāda_ does not introduce a new principle here; it inherits and applies a distinction already latent in _pariṇāmavāda_ itself.
+
+![](../Media/Pratibimbavada.png)
+
 #### 3.2.2. Pedagogical Function: Preserving Non-Duality While Explaining Experience
 
-The value of pratibimbavāda lies precisely here. It explains how bondage, doership, and ignorance can appear without compromising the changelessness of Consciousness, and it does so without invoking a second ontological principle. More importantly, it prepares the ground for self-inquiry. If individuality is an appearance dependent on reflection, then inquiry need not aim at transforming Consciousness or perfecting the person. It need only investigate the supposed individual to see whether it possesses any independent reality at all.
+The value of pratibimbavāda lies precisely here. It explains how bondage, doership, and ignorance can appear without compromising the changelessness of Consciousness, and it does so without invoking a second ontological principle like _Prakṛti_. **More importantly, it prepares the ground for self-inquiry. If individuality is an appearance dependent on reflection, then inquiry need not aim at transforming Consciousness or perfecting the person. It need only investigate the supposed individual to see whether it possesses any independent reality at all.**
 
 Advaita insists that this account must be handled with care. The language of reflection is a teaching device, not a metaphysical assertion. There is no independently real original and no independently real copy; there is only Consciousness, appearing as though divided when viewed through limiting conditions. When those conditions are examined and understood, the appearance loses its force without requiring the destruction of anything real.
 
@@ -318,13 +324,15 @@ This differs fundamentally from the milk-yogurt transformation. When milk become
 
 Extend this analysis: the clay itself is merely earth-element arranged in a particular way. Earth is just the name-form for certain atomic configurations. Atoms are name-forms for quantum fields. At each level of analysis, what seemed substantial reveals itself as mere name-form (nāma-rūpa) superimposed on a more fundamental substrate. Push this analysis to its ultimate conclusion: all apparent objects are merely name-form superimposed on Brahman, which alone exists as the unchanging substrate of all apparent manifestations.
 
+![](../Media/Name-Form%20Analysis.png)
+
 #### 3.3.2. The Revolution in Understanding: From Reflection to Superimposition
 
-The classic rajju-sarpa (rope-snake) example operates on the same principle established through the clay-pot analysis: substrate alone is real; forms are superimposed. The snake never existed; only the rope exists, but under conditions of inadequate illumination (alpaprakāśa), misidentification occurs. The snake is a name-form mentally projected onto the rope substrate. Similarly, the entire world of multiplicity—every object, every differentiation, every apparently separate thing—is name-form superimposed on the non-dual Brahman.
+The classic rajju-sarpa (rope-snake) example operates on the same principle established through the clay-pot analysis: substrate alone is real; forms are superimposed. The snake never existed; only the rope exists, but under conditions of inadequate illumination (alpaprakāśa), misidentification occurs. The snake is a name-form mentally projected onto the rope substrate through error. Similarly, the entire world of multiplicity—every object, every differentiation, every apparently separate thing—is name-form superimposed on the non-dual Brahman through ignorance of the real nature of the world.
 
 #### 3.3.3. Pedagogical Function: Introduction of Mithyā
 
-This theory begins the process of apavāda while maintaining enough ontological scaffolding to avoid conceptual vertigo. The world is now downgraded from "real transformation of Brahman" to "misapprehension of Brahman through name-form superimposition." Crucially, this introduces the category of mithyā—that which appears but lacks independent existence, utterly dependent on its substrate for its apparent reality. The pot has no existence apart from clay; the snake has no existence apart from rope; the world has no existence apart from Brahman. Gaudapāda voices this in Māṇḍūkya Kārikā in the following verse:
+This theory begins the process of apavāda (negation) while maintaining enough ontological scaffolding to avoid conceptual vertigo. The world is now downgraded from "real transformation of Brahman" to "misapprehension of Brahman through name-form superimposition." Crucially, this introduces the category of mithyā—that which appears but lacks independent existence, utterly dependent on its substrate for its apparent reality. The pot has no existence apart from clay; the snake has no existence apart from rope; the world has no existence apart from Brahman. Gaudapāda voices this in Māṇḍūkya Kārikā in the following verse:
 
 _Verse 2.19 - This unborn (changeless, non-dual Brahman) appears to undergo modification only on account of Māyā (illusion) and not otherwise. For, if this modification were real, the Immortal (Brahman) would become mortal._
 
@@ -370,6 +378,12 @@ This is the devastating insight that systematic inquiry reveals. What we call �
 Ajātivāda therefore asks, and answers, a more radical question: what are all these apparently distinct entities—objects, eyes, mind, ego? They are nothing but name-forms provisionally imposed upon experience. “Eye” is a name-form designating certain sensory functions. “Mind” is a name-form designating certain cognitive operations. “Ego” is a name-form designating the sense of separate agency. None of these ever possessed independent existence.
 
 This is not a process of stripping something away, nor an operation performed by a seeker. Nothing is removed because nothing was ever added. What is self-established is Consciousness alone—not as something that remains after negation, but as that which was never divided, modified, or concealed, even while being spoken of under multiple designations within ignorance.
+
+If the pot never truly arose as an entity distinct from clay, then there was nothing to superimpose and nothing to remove. The potter did not add "pot-ness" to the clay, and the philosopher does not subtract it. The clay was always only clay; the pot-form was always only a designation without ontological weight.
+
+What the recognition of ajātivāda accomplishes is not the destruction of the ego or the dissolution of the mind — it is the seeing that these were designations all along, never independent entities that arose and must now be dismantled. The ego no more needs to be destroyed than the pot needs to be broken for the clay to be recognised as clay. Even an unbroken pot is only clay; even the apparently intact ego is only Consciousness, carrying a name.
+
+What is self-established is Consciousness alone — not as something that remains _after_ negation, but as that which was never divided, modified, or concealed, even while being spoken of under multiple designations within ignorance. The clay did not become more itself when the pot-name fell away. It was always only itself. Similarly, Brahman does not become more fully Brahman when the ego, mind, and world are seen as name-forms. It was never anything other than itself — even when those designations appeared, even when they seemed solid, even when a seeker arose within them and began the search for what was never lost.
 
 #### 3.4.3. The World That Never Arose
 
@@ -429,7 +443,8 @@ Objection: If nothing has ever been created, including ignorance, bondage, and t
 
 Response: Gaudapāda addresses this directly (Kārikā 1.18):
 
-"If anyone has ever imagined the manifold ideas (such for instance as the teacher, the taught, and the scripture), they might disappear. This explanation is for the purpose of teaching. Duality (implied in explanation) ceases to exist when the Highest Truth is known."
+> If anyone has ever imagined the manifold ideas (such for instance as the teacher, the taught, and the scripture), they might disappear. This explanation is for the purpose of teaching. Duality (implied in explanation) ceases to exist when the Highest Truth is known.
+
 Śaṅkara notes that ideas like the teacher, taught, and scripture are illusory, just like the manifold universe. These ideas are "for the purpose of teaching which are (therefore appear) true till one realises the Highest Truth."
 
 From the absolute standpoint (paramārtha), there is nothing to teach because there is no ignorance to remove, no one to be taught, no teaching to be delivered. But from the empirical standpoint (vyavahāra), where bondage appears, teaching appropriately appears to remove that appearance—not by creating something new, but by revealing that the appearance was never real to begin with.
@@ -438,7 +453,7 @@ From the absolute standpoint (paramārtha), there is nothing to teach because th
 
 Objection: If ajātivāda is true, avidyā (ignorance) never arose. The entire mechanism of "superimposing name-forms" was itself just another name-form, another conceptual tool used provisionally and then discarded. Yet the entire Vedāntic project presupposes avidyā as the problem requiring solution. How can ignorance both never have arisen and yet be what needs to be removed?
 
-Response: Śaṅkara's response involves distinguishing between bhāvarūpa avidyā (ignorance as positive entity—something that exists and must be destroyed) and abhāvarūpa avidyā (ignorance as mere absence—like darkness that 'exists' only as absence of light). If avidyā were bhāvarūpa, it would be eternal (since Brahman alone is real and eternal, and avidyā would need to be real to exist). But avidyā is abhāvarūpa—not a thing that exists but the absence of knowledge. It never arose because it never was; it 'disappears' not through destruction but through the arrival of knowledge, just as darkness 'disappears' not by being destroyed but by light arriving.
+Response: Śaṅkara's response involves distinguishing between _bhāvarūpa avidyā_ (ignorance as positive entity—something that exists and must be destroyed) and _abhāvarūpa avidyā_ (ignorance as mere absence—like darkness that 'exists' only as absence of light). If avidyā were _bhāvarūpa_, it would be eternal (since Brahman alone is real and eternal, and avidyā would need to be real to exist). But avidyā is _abhāvarūpa_— not a thing that exists but the absence of knowledge. It never arose because it never was; it 'disappears' not through destruction but through the arrival of knowledge, just as darkness 'disappears' not by being destroyed but by light arriving.
 
 Ultimately, ignorance has only vyāvahārika status—it appears but never truly exists, like the darkness that seems present but is merely absence of light, or like the fire-circle that seems produced but was never actually created.
 
@@ -491,7 +506,7 @@ The very passages that spoke of Brahman's activity soon renounce such ascription
 
 Why this two-stage rhetoric? Because the Upaniṣads are not composing metaphysical theses for the speculative mind; they are guiding a lived transition in Awareness. The initial attributions are adhyāropa—deliberate pedagogical conformities to the empiric standpoint so the text can be heard. The subsequent denials are apavāda—surgical removals of what was earlier placed.
 
-Śaṅkara codifies precisely this observation. In his Gītā commentary on XIII.12 he affirms the received method: that "that which has no plurality is communicated through false attribution followed by retraction." Gaudapāda too makes the move explicit: "The text denies all it previously taught by saying, 'He is neither this nor that'" (GK III.26) and warns us that the manifold teaching is "only for the purpose of instruction" (GK I.17–18). These are not marginal glosses; they are the hermeneutical key the tradition hands to every sincere enquirer.
+Śaṅkara codifies precisely this observation. In his Gītā commentary on XIII.12 he affirms the received method: that _"that which has no plurality is communicated through false attribution followed by retraction."_ Gaudapāda too makes the move explicit: _"The text denies all it previously taught by saying, 'He is neither this nor that'" (GK III.26) and warns us that the manifold teaching is "only for the purpose of instruction" (GK I.17–18)._ These are not marginal glosses; they are the hermeneutical key the tradition hands to every sincere enquirer.
 
 This is precisely the method Section 2 of this chapter revealed through Śaṅkara's adhyāsa bhāṣya: the student arrives already superimposing attributes onto the Self, already taking themselves to be a separate entity, already experiencing the world as real. The Upaniṣads cannot simply deny what the student experiences as self-evident. They must first meet the student within that experience, provisionally accepting it, then gradually deconstruct it through systematic negation. The method is not arbitrary pedagogical strategy but necessitated by the structure of ignorance itself.
 
@@ -507,7 +522,7 @@ This graduated teaching also resolves another apparent contradiction: why the Up
 
 Unlike physical objects such as a pot, which you need external light or an observer to perceive, the Self reveals itself. Yet the texts also insist that it is beyond perception and conception because it cannot be made an object of knowledge the way a pot can. You cannot stand apart from the Self to know it as you know a pot, because you ARE that Self—the knower, not something known.
 
-The resolution lies in recognising that the scriptural "teaching" does not produce a new object to be perceived; it removes false attributions so that what was already illumining becomes apparent. The passage of Bṛhadāraṇyaka IV.v.15—"But when all has become his own Self, then what could one see and with what?"—is the summit of this point: when the falsely superimposed names and forms have been removed, nothing remains to be known as an object; what remains is self-revelation, not objectification.
+The resolution lies in recognising that the scriptural "teaching" does not produce a new object to be perceived; it removes false attributions so that what was already illumining becomes apparent. The passage of Bṛhadāraṇyaka IV.v.15—_"But when all has become his own Self, then what could one see and with what?"_—is the summit of this point: when the falsely superimposed names and forms have been removed, nothing remains to be known as an object; what remains is self-revelation, not objectification.
 
 ### 4.7. The Theatrical Nature of Scriptural Teaching
 
