@@ -1464,20 +1464,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 11939,
+      "wordCount": 11937,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 39.79666666666667,
-      "characterCount": 91060,
-      "nonWhitespaceCharacterCount": 78707,
-      "newlineCount": 665,
-      "readingTimeInMinutes": 45.052830188679245,
+      "pageCount": 39.79,
+      "characterCount": 91029,
+      "nonWhitespaceCharacterCount": 78680,
+      "newlineCount": 662,
+      "readingTimeInMinutes": 45.04528301886793,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1771651815492,
-      "modifiedDate": 1772003108709,
-      "sizeInBytes": 91681,
+      "modifiedDate": 1778656134424,
+      "sizeInBytes": 91687,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1485,6 +1485,9 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
       }
     },
     "Book/Chapter 05 - The Nature and Authority of Self-Inquiry.md": {
@@ -1674,6 +1677,36 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "Chapter 4.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11295,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 37.65,
+      "characterCount": 86566,
+      "nonWhitespaceCharacterCount": 74889,
+      "newlineCount": 614,
+      "readingTimeInMinutes": 42.62264150943396,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1778656459755,
+      "modifiedDate": 1778657785318,
+      "sizeInBytes": 87196,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": "full-width-active"
       }
     }
   }
