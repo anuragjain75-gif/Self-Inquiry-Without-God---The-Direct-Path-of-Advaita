@@ -59,7 +59,7 @@ The qualifications aren't achievements that make you worthy of truth but capacit
 
 Think of it as a feedback loop: initial mumukṣutva motivates investigation; investigation reveals more clearly why worldly seeking fails; seeing this strengthens vairāgya; reduced seeking creates mental space; this space allows deeper viveka; clearer discrimination intensifies longing for truth. The qualifications and the inquiry develop together
 
-![[Qualifications.png|300]]
+![](../Media/Qualifications.png)
 ### 1.2. The Contemporary Challenge: Counter-Formations
 
 Here's where the translation problem becomes acute. Traditional methods for developing qualifications assumed cultural contexts that no longer exist for most contemporary seekers. More problematically, you've internalized belief systems that actively prevent these qualifications from arising—what we've called counter-formations, operating as contemporary doxa.
