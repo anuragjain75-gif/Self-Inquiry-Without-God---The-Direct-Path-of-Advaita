@@ -33,20 +33,14 @@
             "id": "1c00f1621f77b049",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Book Progress.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Book/Chapter 09 - The Unborn Alone - Ajātivāda and the End of the Witness.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Book Progress"
+              "icon": "lucide-file",
+              "title": "Chapter 09 - The Unborn Alone - Ajātivāda and the End of the Witness"
             }
           }
         ],
@@ -117,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "d66c704814638c26",
@@ -229,32 +222,32 @@
   },
   "active": "1c00f1621f77b049",
   "lastOpenFiles": [
-    "Book/Chapter 3 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+    "Book/Chapter 08 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
+    "Book/Chapter 10 - Epilogue - Sahaja — The Return to the Beginning.md",
+    "Book/Chapter 09 - The Unborn Alone - Ajātivāda and the End of the Witness.md",
+    "Book/Chapter 07 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
+    "Book/Chapter 06 - Stages of Self-Inquiry.md",
+    "Book/Chapter 05 - The Nature and Authority of Self-Inquiry.md",
+    "Book/Chapter 04 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
+    "Book/Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+    "Book/Chapter 02 - Advaita's Teaching - What You Actually Are.md",
+    "Book/Chapter 01 - What Am I - The Most Intimate Question.md",
     "Book Progress.md",
     "Media/Superimposition and Negation.png",
     "Media/Superimposition.md",
-    "Book/Chapter 2 - Advaita's Teaching - What You Actually Are.md",
-    "Book/Chapter 10 - Epilogue - Sahaja — The Return to the Beginning.md",
     "Media/Samkhya Evolution.png",
     "Media/Two-Way Superimposition.png",
     "Media/Path is Also in Ignorance.png",
     "Media/Two Way Superimposition.png",
     "Chapter 2.md",
-    "Book/Chapter 1 - What Am I - The Most Intimate Question.md",
     "Chapter 1.md",
-    "Book/Chapter 0 - Introduction.md",
+    "Book/Chapter 00 - Introduction.md",
     "Introduction Publish Draft.md",
-    "Book/Chapter 8 - The Method of Self-Inquiry through Drig-Drishya-Viveka.md",
-    "Book/Chapter 0 - Preface.md",
+    "Book/Chapter 00 - Preface.md",
     "Untitled Kanban.md",
     "Book/Chapter 0 - Preface.epub",
     "Book Comments.md",
     "Book/_TOC_.md",
-    "Book/Chapter 9 - The Unborn Alone: Ajātivāda and the End of the Witness.md",
-    "Book/Chapter 7 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
-    "Book/Chapter 6 - Stages of Self-Inquiry.md",
-    "Book/Chapter 5 - The Nature and Authority of Self-Inquiry.md",
-    "Book/Chapter 4 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
     "Scratch Pad.md",
     "Excalidraw/Drawing 2026-03-21 12.16.40.excalidraw.md",
     "Book/Self-Inquiry Without God/Index.md",
