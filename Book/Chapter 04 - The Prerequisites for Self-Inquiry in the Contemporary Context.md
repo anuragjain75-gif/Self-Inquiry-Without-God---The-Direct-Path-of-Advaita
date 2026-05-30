@@ -35,7 +35,7 @@ The traditional answer: they lack the necessary qualifications. Classical Advait
 
 **Vairāgya (dispassion)**: Detachment from compulsive pursuit of temporary satisfactions, seeing through the framework that drives endless seeking. This doesn't mean suppressing desires or becoming passive, but recognizing that what you seek in objects, achievements, and experiences—the sense of completeness, the resolution of lack—cannot actually be found there. *Vairāgya* emerges from honest observation: you've tried acquiring, achieving, experiencing, and while temporary satisfaction occurred, the fundamental sense of incompleteness returned. Not that pleasures should be rejected—that would be another form of seeking—but that the desperate quality, the sense that your existence depends on outcomes, loosens when you see clearly that nothing external completes what you are. Without *vairāgya*, you approach even liberation as another acquisition, enlightenment as another achievement, treating spirituality as spiritual consumerism.
 
-**Ṣaṭ-sampat (six virtues)**: A cluster of psychological capacities that provide stability for sustained inquiry:
+**Ṣaṭ-sampat (six virtues)**: A cluster of psychological capacities that provide stability for sustained inquiry. While rooted in the traditional Advaitic understanding of the _ṣaṭ-sampat_, the following definitions employ a slightly modified psycho-philosophical language appropriate to the methodological orientation of this book.:
 
 - *Śama* (tranquility): Mental composure, the capacity to remain with difficult truths without defensive reaction
 - *Dama* (self-control): Not rigid suppression but the ability to notice impulses without being controlled by them
@@ -89,7 +89,7 @@ What's actually established: neural activity correlates with conscious experienc
 
 But correlation is not causation. From "brain activity correlates with consciousness" to "brain activity produces consciousness"—this is not empirical observation but philosophical interpretation.
 
-The intervention argument claims we have more than correlation—we can change brain states and consciousness changes. True, but this is equally compatible with two interpretations: (1) brain generates consciousness, or (2) brain constrains and modulates consciousness without generating it. Damaging a television distorts the program, but this doesn't prove the television produced the broadcast.
+The intervention argument claims we have more than correlation—we can change brain states and consciousness changes. True, but this is equally compatible with two interpretations: (1) brain generates consciousness, or (2) the brain functions as a conditioning medium through which conscious experience is structured and manifested. In this second model, neural changes alter the contents and organization of experience without implying that Consciousness itself is produced or modified by matter. Damaging a television distorts the program, but this does not prove the television generated the broadcast.
 
 The parsimony argument assumes matter is simpler than consciousness—but this begs the question. Matter is known only through consciousness; you've never experienced matter independently of conscious experience. Consciousness is self-evident, immediately present, undeniable. Which is more parsimonious: explaining everything in terms of what's directly known (consciousness), or what's inferred from appearances in consciousness (material particles)?
 
@@ -181,11 +181,15 @@ The mechanism operates through three processes:
 
 **Habituation**: Neural adaptation reduces response to repeated stimuli. The new car is thrilling the first week, pleasant the first month, barely noticed after six months. You literally cease registering what was supposed to deliver lasting satisfaction. Neuroscientist Wolfram Schultz's research on dopamine and reward prediction shows that pleasure comes more from anticipation than attainment—the system is designed for seeking, not satisfaction.
 
-**Aspiration inflation**: Each achievement raises the bar for what would count as success. Daniel Kahneman's research on the "focusing illusion" demonstrates this: people systematically overestimate how much specific changes will improve their life satisfaction. "Nothing in life is as important as you think it is while you are thinking about it," he observed. Yet you continue believing the next acquisition will be different.
+**Aspiration inflation**: This means that every achievement quietly upgrades what you consider the minimum acceptable. When you were a student, a stable job felt like the dream. Once you had the stable job, it became the floor — now a _good_ job was the goal. When the good job arrived, a _senior_ position became the new minimum. And so on, indefinitely.
+
+The trap is that this escalation feels like progress. You are, objectively, doing better. But subjectively you are never ahead — because the definition of "ahead" keeps moving forward at the same pace as your achievements. You are running on a treadmill that accelerates precisely as fast as you run.
+
+Kahneman called this the **focusing illusion**: when you are imagining a future achievement, it occupies your entire mental horizon and seems enormously significant. Once achieved, it shrinks to one element among many in an ordinary day. The promotion that consumed two years of ambition becomes, three months after arriving, just the current job — noticed only when it is again threatened or surpassed.
 
 The implications are devastating for consumerism: the framework promises that satisfaction is achievable through acquisition, but psychology demonstrates that the human reward system is structured to prevent exactly this. You're on a treadmill—running toward satisfaction that recedes at the rate you approach it.
 
-More striking: research on "eudaimonic well-being" versus "hedonic well-being" shows that meaning, purpose, and self-transcendence correlate with sustained life satisfaction in ways that pleasure and acquisition do not. Studies by Ed Diener, Martin Seligman, and others consistently find that once basic needs are met, additional wealth, status, and possessions contribute minimally to well-being. What does contribute: close relationships, meaningful work, sense of purpose beyond self-interest—precisely what consumerism's framework undermines by treating everything as resource for personal satisfaction.
+![](../Media/Hedonic%20Treadmill.png)
 
 ### 3.3. The Three-Fold Recognition
 
@@ -338,7 +342,7 @@ What emerges when autonomous selfhood loosens is not relationship's disappearanc
 
 If inquiry reveals that autonomous agent cannot be found, doesn't this collapse into amoral nihilism? If "you" didn't really choose your actions, how can you be held responsible? If decisions arose from conditions you didn't control, doesn't this excuse everything?
 
-This objection requires careful response (we'll address ethics in Chapter 8), but note how threatening it is. Your entire moral self-understanding assumes autonomous agency. Parents taught ethics, society demanded accountability, religion promised judgment or *karma*—all assuming "you" as autonomous chooser. Questioning this seems to undermine not just a philosophical position but the possibility of ethics itself.
+Note how threatening it is. Your entire moral self-understanding assumes autonomous agency. Parents taught ethics, society demanded accountability, religion promised judgment or *karma*—all assuming "you" as autonomous chooser. Questioning this seems to undermine not just a philosophical position but the possibility of ethics itself.
 
 **Future Projects Lose Their Author**: You have plans—career goals, relationship aspirations, personal development projects, spiritual objectives. These plans assume "you" as continuous agent moving through time, authoring future states through present choices. The entire project-structure requires stable autonomous self as author.
 
@@ -372,7 +376,7 @@ Moreover, contemporary culture valorizes busy-ness, productivity, continuous act
 
 **Dama (self-control)**: Individualism frames self-control as autonomous will dominating unruly impulses—internal warfare between higher rational self and lower impulses. This creates exhausting conflict: "I want this cookie but I'm controlling myself." "I'm angry but I'm restraining it." The autonomous agent constantly fighting its own impulses.
 
-Traditional *dama* isn't warfare—it's the natural non-being-controlled by impulses when they're seen as movements in awareness rather than commands requiring obedience or suppression. The impulse arises, is known, doesn't control action. But individualism requires treating impulses as threats to autonomous control that must be dominated through will, or surrendering to impulses becomes "authentic expression." Either way, you're identified with agency—either controlling or expressing—rather than recognizing impulses as appearances not requiring either domination or obedience.
+Traditional _dama_ is not the suppression of impulses through an act of will — it is the natural condition of not being controlled by them. When an impulse is seen clearly as a movement arising in Awareness, rather than as a command issued by some inner authority, it loses its power to compel. It arises, it is known, and action is not automatically hijacked by it. The impulse is neither obeyed nor fought — it simply appears and passes, the way a cloud moves through sky without the sky being disturbed. But individualism requires treating impulses as threats to autonomous control that must be dominated through will, or surrendering to impulses becomes "authentic expression." Either way, you're identified with agency—either controlling or expressing—rather than recognizing impulses as appearances not requiring either domination or obedience.
 
 **Uparati (withdrawal)**: The autonomous self defines itself through activities expressing agency. What you do testifies to your autonomy—career accomplishments, creative projects, social engagements, even spiritual practices. Activity becomes proof of being an active, self-determining agent.
 
@@ -380,7 +384,7 @@ Withdrawal threatens this. If you stop all self-constructing activity, does the 
 
 Moreover, contemporary productivity culture treats withdrawal as laziness or depression. Stepping back from activity requires justification—you're burned out (medical excuse), on sabbatical (temporary for later productivity), retired (earned through prior activity). The idea of withdrawal as natural or valuable in itself seems absurd when existence is defined through autonomous action.
 
-**Titikṣā (forbearance)**: Investigation into autonomous selfhood creates intense discomfort that must be tolerated without defensive reaction. The question "What am I if not autonomous individual?" generates existential anxiety because it threatens the ground of meaning, agency, identity—everything examined in the Existential Threat section. ^1595c4
+**Titikṣā (forbearance)**: Investigation into autonomous selfhood creates intense discomfort that must be tolerated without defensive reaction. The question "What am I if not autonomous individual?" generates existential anxiety because it threatens the ground of meaning, agency, identity—everything examined in the Existential Threat section.
 
 But individualism hasn't developed capacity for tolerating this particular discomfort. Other discomforts, yes—physical challenges, emotional difficulties, social hardships can be endured and even celebrated as character-building or growth opportunities. But discomfort that threatens autonomous selfhood itself—this triggers immediate defensive reaction: the inquiry must be wrong, dangerous, nihilistic, or misunderstood.
 
@@ -554,12 +558,6 @@ Each time a framework resurfaces, practice the four movements again. The framewo
 ### The Transition
 
 You'll know you're ready for direct investigation when: The urgency is genuine—you genuinely don't know what you are and cannot tolerate not knowing. You can hold the question "What am I?" without immediately filling it with framework-answers. The compulsive seeking has relaxed. You can tolerate the destabilization when frameworks dissolve.
-
-The following chapters will guide this investigation:
-- Chapter 5 maps the specific stages of self-inquiry
-- Chapter 6 clarifies what self-inquiry is NOT
-- Chapter 7 provides detailed instructions for practice
-- Chapter 8 addresses integration into daily life
 
 ### The Opening
 

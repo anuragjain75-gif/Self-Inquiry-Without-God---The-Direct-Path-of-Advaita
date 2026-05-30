@@ -35,30 +35,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 04 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
+                "file": "Book/Chapter 00 - Preface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 04 - The Prerequisites for Self-Inquiry in the Contemporary Context"
-            }
-          },
-          {
-            "id": "b4560ee6e796489f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages"
+              "title": "Chapter 00 - Preface"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+                "file": "Book/Chapter 04 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages"
+              "title": "Outline of Chapter 04 - The Prerequisites for Self-Inquiry in the Contemporary Context"
             }
           }
         ],
@@ -235,12 +221,15 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "b4560ee6e796489f",
+  "active": "1c00f1621f77b049",
   "lastOpenFiles": [
-    "Media/Two-Way Superimposition.png",
+    "Book/Chapter 00 - Introduction.md",
     "Book/Chapter 04 - The Prerequisites for Self-Inquiry in the Contemporary Context.md",
-    "Book/Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
     "Book Progress.md",
+    "Book/Chapter 05 - The Nature and Authority of Self-Inquiry.md",
+    "Media/Hedonic Treadmill.png",
+    "Book/Chapter 03 - Superimposition and Negation - Why Advaita Teaches Through Contradictory Stages.md",
+    "Media/Two-Way Superimposition.png",
     "Chapter 4.md",
     "Media/Name-Form Analysis.png",
     "Media/Pratibimbavada.png",
@@ -249,7 +238,6 @@
     "Book/Chapter 10 - Epilogue - Sahaja — The Return to the Beginning.md",
     "Book/Chapter 07 - What Self-Inquiry is NOT - Clarifying Common Confusions.md",
     "Book/Chapter 06 - Stages of Self-Inquiry.md",
-    "Book/Chapter 05 - The Nature and Authority of Self-Inquiry.md",
     "Book/Chapter 02 - Advaita's Teaching - What You Actually Are.md",
     "Book/Chapter 01 - What Am I - The Most Intimate Question.md",
     "Media/Superimposition and Negation.png",
@@ -259,7 +247,6 @@
     "Media/Two Way Superimposition.png",
     "Chapter 2.md",
     "Chapter 1.md",
-    "Book/Chapter 00 - Introduction.md",
     "Introduction Publish Draft.md",
     "Book/Chapter 00 - Preface.md",
     "Untitled Kanban.md",
@@ -273,7 +260,6 @@
     "Excalidraw/How Witnessing Exhausts Vasanas.md",
     "Media/How Witnessing Exhausts Vasanas.png",
     "Excalidraw/Deconstruction of Memory.png",
-    "Media/Gaudapada's Exhaustive Demolition of Causation.png",
     "Excalidraw/Witnessing.excalidraw",
     "Excalidraw/No Vasanas Formed.excalidraw",
     "Research Books/Spiritual Enlightenment - The Damnedest Thing_-_Jed_McKenna.pdf",

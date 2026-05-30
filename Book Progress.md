@@ -6,8 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Finalize Chapter 3 and publish
-	@{2026-04-21}
+- [ ] Finalize Chapter 4 and publish @{2026-05-21}
 
 
 ## Editing
@@ -23,6 +22,10 @@ kanban-plugin: board
 	@{2026-04-19}
 - [ ] Finalize Chapter 2 and publish 
 	@{2026-04-20}
+- [ ] Finalize Chapter 3 and publish
+	@{2026-04-21}
+	
+	Completed @{2026-05-13}
 
 
 
